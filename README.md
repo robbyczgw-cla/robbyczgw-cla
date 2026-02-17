@@ -1,6 +1,6 @@
 # Hey, I'm Robby 👋
 
-**AI-assisted developer** from Graz, Austria 🇦🇹
+**Agentic engineer** from Graz, Austria 🇦🇹
 
 I build tools that make AI assistants actually useful — not just chatbots, but agents that ship code, monitor topics, and integrate into real workflows.
 

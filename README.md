@@ -45,4 +45,4 @@ I build with AI — specifically with [Cami 🦎](https://github.com/robbyczgw-c
 
 ---
 
-<sub>🇦🇹 Graz · ☕ Coffee > Tea · ⚽ Football Manager addict · 💎 ETH believer</sub>
+<sub>🇦🇹 Graz · ☕ Coffee > Tea</sub>

@@ -45,4 +45,4 @@ I build with AI — specifically with [Cami 🦎](https://github.com/robbyczgw-c
 
 ---
 
-<sub>🇦🇹 Graz · ☕ Coffee > Tea</sub>
+<sub>🦎 Clawverse · Graz, Austria</sub>

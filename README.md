@@ -17,13 +17,14 @@ I build tools that make AI assistants actually useful — not just chatbots, but
 ### [OpenCami](https://github.com/robbyczgw-cla/opencami) — Web Client for OpenClaw
 Full-featured chat interface with real-time streaming, smart titles, TTS, file explorer, persona picker, conversation search & export, PWA support, dashboard panel, and more. **v1.8.0**
 
-### [ClawHub Skills](https://www.clawhub.ai/robbyczgw-cla) — 9 Published Skills
+### [ClawHub Skills](https://www.clawhub.ai/robbyczgw-cla) — 10 Published Skills
 
 | Skill | What it does |
 |-------|-------------|
 | [web-search-plus](https://www.clawhub.ai/robbyczgw-cla/web-search-plus) | Multi-provider search with auto-routing |
 | [elevenlabs-voices](https://www.clawhub.ai/robbyczgw-cla/elevenlabs-voices) | 18 voice personas for TTS |
 | [personas](https://www.clawhub.ai/robbyczgw-cla/personas) | 20 switchable AI personalities |
+| [roundtable](https://www.clawhub.ai/robbyczgw-cla/roundtable) | Multi-agent debate council (Scholar, Engineer, Muse) |
 | [sports-ticker](https://www.clawhub.ai/robbyczgw-cla/sports-ticker) | Live sports alerts via ESPN API |
 | [topic-monitor](https://www.clawhub.ai/robbyczgw-cla/topic-monitor) | Automated topic monitoring with AI scoring |
 | [agent-chronicle](https://www.clawhub.ai/robbyczgw-cla/agent-chronicle) | AI diary & journaling system |

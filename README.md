@@ -44,6 +44,14 @@ Not published on ClawHub, but used in real deployments:
 
 Expo + React Native client for OpenClaw. Your AI assistant in your pocket.
 
+### macOS
+
+- [SimpleMacClipboardManager](https://github.com/robbyczgw-cla/SimpleMacClipboardManager) — A free, lightweight clipboard manager for macOS. Features visual previews, image support, Quick Look, multi-language UI, and keyboard-first design. Built with Electron + React + TypeScript.
+
+### Legacy
+
+- [Chameleon-AI-Chat](https://github.com/robbyczgw-cla/Chameleon-AI-Chat) — Early chat UI / prototype.
+
 ## 🛠️ Tech
 
 `TypeScript` `React` `React Native` `Node.js` `Vite` `Expo` `Python`

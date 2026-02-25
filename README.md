@@ -20,6 +20,8 @@ Full-featured chat interface with real-time streaming, smart titles, TTS, file e
 
 ### [ClawHub Skills](https://www.clawhub.ai/robbyczgw-cla) — Published Skills
 
+**20k+ total downloads across 10 published OpenClaw skills.**
+
 | Skill | What it does |
 |-------|-------------|
 | [web-search-plus](https://www.clawhub.ai/robbyczgw-cla/web-search-plus) | Multi-provider search with auto-routing |

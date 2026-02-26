@@ -29,7 +29,7 @@ Full-featured chat interface with real-time streaming, smart titles, TTS, file e
 | [personas](https://www.clawhub.ai/robbyczgw-cla/personas) | 20 switchable AI personalities |
 | [roundtable](https://www.clawhub.ai/robbyczgw-cla/roundtable) | Multi-agent debate council (Scholar, Engineer, Muse) |
 | [sports-ticker](https://www.clawhub.ai/robbyczgw-cla/sports-ticker) | Live sports alerts via ESPN API |
-| [topic-monitor](https://www.clawhub.ai/robbyczgw-cla/topic-monitor) | Automated topic monitoring with AI scoring |
+| [topic-monitor](https://www.clawhub.ai/robbyczgw-cla/topic-monitor) | Automated topic monitoring (proactive-research) ⭐ Featured on DigitalOcean |
 | [agent-chronicle](https://www.clawhub.ai/robbyczgw-cla/agent-chronicle) | AI diary & journaling system |
 | [smart-followups](https://www.clawhub.ai/robbyczgw-cla/smart-followups) | Contextual follow-up suggestions |
 | [youtube-apify-transcript](https://www.clawhub.ai/robbyczgw-cla/youtube-apify-transcript) | YouTube transcripts via Apify |

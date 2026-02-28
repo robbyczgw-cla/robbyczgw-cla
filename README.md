@@ -6,7 +6,7 @@ I build tools that make AI assistants actually useful — not just chatbots, but
 
 ## 🦞 OpenClaw Contributor
 
-**Top 5% contributor** to [OpenClaw](https://github.com/openclaw/openclaw) (~200k ⭐) — the open-source AI assistant platform.
+**Top 40 contributor** to [OpenClaw](https://github.com/openclaw/openclaw) (~240k ⭐) — the open-source AI assistant platform.
 
 - 🔀 **20 PRs merged**, 6 in review — Telegram, Discord, session management, bug fixes
 - 🏷️ `experienced-contributor` · `Clawborator` role
@@ -20,7 +20,7 @@ Full-featured chat interface with real-time streaming, smart titles, TTS, file e
 
 ### [ClawHub Skills](https://www.clawhub.ai/robbyczgw-cla) — Published Skills
 
-**20k+ total downloads across 10 published OpenClaw skills.**
+**40k+ total downloads across 10 published OpenClaw skills.**
 
 | Skill | What it does |
 |-------|-------------|

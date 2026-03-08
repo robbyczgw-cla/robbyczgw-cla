@@ -16,7 +16,7 @@ I build tools that make AI assistants actually useful — not just chatbots, but
 
 ### [OpenCami](https://github.com/robbyczgw-cla/opencami) — Web Client for OpenClaw
 
-Full-featured chat interface with real-time streaming, smart titles, TTS, file explorer, persona picker, conversation search & export, PWA support, dashboard panel, and more. **v1.8.3**
+Full-featured chat interface with real-time streaming, smart titles, TTS, file explorer, persona picker, conversation search & export, PWA support, dashboard panel, and more. **v1.8.8**
 
 ### [ClawHub Skills](https://www.clawhub.ai/robbyczgw-cla) — Published Skills
 

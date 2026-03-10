@@ -8,7 +8,7 @@ I build tools that make AI assistants actually useful — not just chatbots, but
 
 **Top 40 contributor** to [OpenClaw](https://github.com/openclaw/openclaw) (~240k ⭐) — the open-source AI assistant platform.
 
-- 🔀 **20 PRs merged**, 6 in review — Telegram, Discord, session management, bug fixes
+- 🔀 **20 PRs merged**,Telegram, Discord, session management, bug fixes
 - 🏷️ `experienced-contributor` · `Clawborator` role
 - 📦 Featured in multiple release notes
 

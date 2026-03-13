@@ -40,6 +40,10 @@ Full-featured chat interface with real-time streaming, smart titles, TTS, file e
 - [web-search-plus-plugin](https://github.com/robbyczgw-cla/web-search-plus-plugin) — Native OpenClaw tool plugin wrapper for Web Search Plus
 - [openclaw-plugin-stoat](https://github.com/robbyczgw-cla/openclaw-plugin-stoat) — Stoat (Revolt) channel plugin for OpenClaw
 
+### MCP Servers
+
+- [web-search-plus-mcp](https://github.com/robbyczgw-cla/web-search-plus-mcp) — Multi-provider web search MCP server with intelligent auto-routing (Serper → Tavily → Exa). Available on [PyPI](https://pypi.org/project/web-search-plus-mcp/). `uvx web-search-plus-mcp`
+
 ### [CamiApp](https://github.com/robbyczgw-cla/camiapp) — Native Mobile Client
 
 Expo + React Native client for OpenClaw. Your AI assistant in your pocket.

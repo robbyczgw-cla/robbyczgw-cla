@@ -37,8 +37,6 @@ Full-featured chat interface with real-time streaming, smart titles, TTS, file e
 
 ### Plugins (GitHub)
 
-Not published on ClawHub, but used in real deployments:
-
 - [web-search-plus-plugin](https://github.com/robbyczgw-cla/web-search-plus-plugin) — Native OpenClaw tool plugin wrapper for Web Search Plus
 - [openclaw-plugin-stoat](https://github.com/robbyczgw-cla/openclaw-plugin-stoat) — Stoat (Revolt) channel plugin for OpenClaw
 

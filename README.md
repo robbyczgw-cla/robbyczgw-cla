@@ -4,11 +4,14 @@
 
 I build tools that make AI assistants actually useful — not just chatbots, but agents that ship code, monitor topics, and integrate into real workflows.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robbyczgw-cla&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=robbyczgw-cla&theme=dark&hide_border=true)
+
 ## 🦞 OpenClaw Contributor
 
 **Top 50 contributor** to [OpenClaw](https://github.com/openclaw/openclaw) (~330k ⭐) — the open-source AI assistant platform.
 
-- 🔀 **20 PRs merged**,Telegram, Discord, session management, bug fixes
+- 🔀 **20 PRs merged** — Telegram, Discord, session management, bug fixes
 - 🏷️ `experienced-contributor` · `Clawborator` role
 - 📦 Featured in multiple release notes
 
@@ -16,7 +19,11 @@ I build tools that make AI assistants actually useful — not just chatbots, but
 
 ### [OpenCami](https://github.com/robbyczgw-cla/opencami) — Web Client for OpenClaw
 
-Full-featured chat interface with real-time streaming, smart titles, TTS, file explorer, persona picker, conversation search & export, PWA support, dashboard panel, and more. **v1.9**
+Full-featured standalone AI chat client. Real-time streaming, smart titles, TTS, file explorer, persona picker, conversation search & export, PWA support, dashboard panel, and more. **v1.9.1** — available on npm, one-line install:
+
+```bash
+curl -fsSL https://opencami.xyz/install.sh | bash
+```
 
 ### [ClawHub Skills](https://www.clawhub.ai/robbyczgw-cla) — Published Skills
 
@@ -29,7 +36,7 @@ Full-featured chat interface with real-time streaming, smart titles, TTS, file e
 | [personas](https://www.clawhub.ai/robbyczgw-cla/personas) | 20 switchable AI personalities |
 | [roundtable](https://www.clawhub.ai/robbyczgw-cla/roundtable) | Multi-agent debate council (Scholar, Engineer, Muse) |
 | [sports-ticker](https://www.clawhub.ai/robbyczgw-cla/sports-ticker) | Live sports alerts via ESPN API |
-| [topic-monitor](https://www.clawhub.ai/robbyczgw-cla/topic-monitor) | Automated topic monitoring (proactive-research) ⭐ Featured on DigitalOcean |
+| [topic-monitor](https://www.clawhub.ai/robbyczgw-cla/topic-monitor) | Automated topic monitoring ⭐ Featured on DigitalOcean |
 | [agent-chronicle](https://www.clawhub.ai/robbyczgw-cla/agent-chronicle) | AI diary & journaling system |
 | [smart-followups](https://www.clawhub.ai/robbyczgw-cla/smart-followups) | Contextual follow-up suggestions |
 | [youtube-apify-transcript](https://www.clawhub.ai/robbyczgw-cla/youtube-apify-transcript) | YouTube transcripts via Apify |
@@ -38,12 +45,12 @@ Full-featured chat interface with real-time streaming, smart titles, TTS, file e
 ### Plugins (GitHub)
 
 - [web-search-plus-plugin](https://github.com/robbyczgw-cla/web-search-plus-plugin) — Native OpenClaw tool plugin wrapper for Web Search Plus
-- [hermes-web-search-plus](https://github.com/robbyczgw-cla/hermes-web-search-plus) — Multi-provider web search plugin for Hermes Agent (Serper, Tavily, Exa, Querit, Perplexity)
+- [hermes-web-search-plus](https://github.com/robbyczgw-cla/hermes-web-search-plus) — Multi-provider web search plugin for Hermes Agent
 - [openclaw-plugin-stoat](https://github.com/robbyczgw-cla/openclaw-plugin-stoat) — Stoat (Revolt) channel plugin for OpenClaw
 
 ### MCP Servers
 
-- [web-search-plus-mcp](https://github.com/robbyczgw-cla/web-search-plus-mcp) — Multi-provider web search MCP server with intelligent auto-routing (Serper → Tavily → Exa). Available on [PyPI](https://pypi.org/project/web-search-plus-mcp/). `uvx web-search-plus-mcp`
+- [web-search-plus-mcp](https://github.com/robbyczgw-cla/web-search-plus-mcp) — Multi-provider web search MCP server. Available on [PyPI](https://pypi.org/project/web-search-plus-mcp/). `uvx web-search-plus-mcp`
 
 ### [CamiApp](https://github.com/robbyczgw-cla/camiapp) — Native Mobile Client
 
@@ -51,11 +58,7 @@ Expo + React Native client for OpenClaw. Your AI assistant in your pocket.
 
 ### macOS
 
-- [SimpleMacClipboardManager](https://github.com/robbyczgw-cla/SimpleMacClipboardManager) — A free, lightweight clipboard manager for macOS. Features visual previews, image support, Quick Look, multi-language UI, and keyboard-first design. Built with Electron + React + TypeScript.
-
-### Legacy
-
-- [Chameleon-AI-Chat](https://github.com/robbyczgw-cla/Chameleon-AI-Chat) — Early chat UI / prototype.
+- [SimpleMacClipboardManager](https://github.com/robbyczgw-cla/SimpleMacClipboardManager) — A free, lightweight clipboard manager for macOS. Built with Electron + React + TypeScript.
 
 ## 🛠️ Tech
 
@@ -64,7 +67,6 @@ Expo + React Native client for OpenClaw. Your AI assistant in your pocket.
 ## 🤖 How I Work
 
 I build with AI — specifically with [Cami 🦎](https://github.com/robbyczgw-cla/opencami), my OpenClaw agent. Every PR, every skill, every project is a human + AI collaboration. I design, review, and ship. The AI helps me move fast.
-
 
 ---
 

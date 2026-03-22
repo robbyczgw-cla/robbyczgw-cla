@@ -27,7 +27,7 @@ curl -fsSL https://opencami.xyz/install.sh | bash
 
 ### [ClawHub Skills](https://www.clawhub.ai/robbyczgw-cla) — Published Skills
 
-**50k+ total downloads across 10 published OpenClaw skills.**
+**50k+ total downloads across 11 published OpenClaw skills.**
 
 | Skill | What it does |
 |-------|-------------|
@@ -37,6 +37,7 @@ curl -fsSL https://opencami.xyz/install.sh | bash
 | [roundtable](https://www.clawhub.ai/robbyczgw-cla/roundtable) | Multi-agent debate council (Scholar, Engineer, Muse) |
 | [sports-ticker](https://www.clawhub.ai/robbyczgw-cla/sports-ticker) | Live sports alerts via ESPN API |
 | [topic-monitor](https://www.clawhub.ai/robbyczgw-cla/topic-monitor) | Automated topic monitoring ⭐ Featured on DigitalOcean |
+| [lucid-dreamer](https://www.clawhub.ai/robbyczgw-cla/lucid-dreamer) | Nightly AI memory reasoning — auto-cleans memory while you sleep 🧠 |
 | [agent-chronicle](https://www.clawhub.ai/robbyczgw-cla/agent-chronicle) | AI diary & journaling system |
 | [smart-followups](https://www.clawhub.ai/robbyczgw-cla/smart-followups) | Contextual follow-up suggestions |
 | [youtube-apify-transcript](https://www.clawhub.ai/robbyczgw-cla/youtube-apify-transcript) | YouTube transcripts via Apify |

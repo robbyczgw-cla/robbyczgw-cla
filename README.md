@@ -46,7 +46,6 @@ curl -fsSL https://opencami.xyz/install.sh | bash
 ### Plugins (GitHub)
 
 - [web-search-plus-plugin](https://github.com/robbyczgw-cla/web-search-plus-plugin) — Native OpenClaw tool plugin wrapper for Web Search Plus
-- [hermes-web-search-plus](https://github.com/robbyczgw-cla/hermes-web-search-plus) — Multi-provider web search plugin for Hermes Agent
 - [openclaw-plugin-stoat](https://github.com/robbyczgw-cla/openclaw-plugin-stoat) — Stoat (Revolt) channel plugin for OpenClaw
 
 ### 🔮 Hermes Agent Ecosystem

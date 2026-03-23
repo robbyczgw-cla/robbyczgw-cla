@@ -49,6 +49,16 @@ curl -fsSL https://opencami.xyz/install.sh | bash
 - [hermes-web-search-plus](https://github.com/robbyczgw-cla/hermes-web-search-plus) — Multi-provider web search plugin for Hermes Agent
 - [openclaw-plugin-stoat](https://github.com/robbyczgw-cla/openclaw-plugin-stoat) — Stoat (Revolt) channel plugin for OpenClaw
 
+### 🔮 Hermes Agent Ecosystem
+
+Plugins and skills for [Hermes Agent](https://github.com/NousResearch/hermes-agent) by Nous Research — featured in [awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) ⭐
+
+| Project | What it does |
+|---------|-------------|
+| [hermes-web-search-plus](https://github.com/robbyczgw-cla/hermes-web-search-plus) | Multi-provider web search (Serper, Tavily, Exa, Querit, Perplexity) with auto-routing |
+| [hermes-topic-monitor](https://github.com/robbyczgw-cla/hermes-topic-monitor) | Scheduled topic monitoring with AI importance scoring — alerts via cron |
+| [hermes-agent-chronicle](https://github.com/robbyczgw-cla/hermes-agent-chronicle) | AI-perspective diary — captures quotes, curiosities, decisions & relationship evolution |
+
 ### MCP Servers
 
 - [web-search-plus-mcp](https://github.com/robbyczgw-cla/web-search-plus-mcp) — Multi-provider web search MCP server. Available on [PyPI](https://pypi.org/project/web-search-plus-mcp/). `uvx web-search-plus-mcp`

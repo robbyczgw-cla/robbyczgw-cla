@@ -4,7 +4,6 @@
 
 I build tools that make AI assistants actually useful — not just chatbots, but agents that ship code, monitor topics, and integrate into real workflows.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robbyczgw-cla&show_icons=true&theme=dark&hide_border=true&count_private=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=robbyczgw-cla&theme=dark&hide_border=true)
 
 ## 🦞 OpenClaw Contributor

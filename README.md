@@ -18,7 +18,7 @@ I build tools that make AI assistants actually useful — not just chatbots, but
 
 ### [OpenCami](https://github.com/robbyczgw-cla/opencami) — Web Client for OpenClaw
 
-Full-featured standalone AI chat client. Real-time streaming, smart titles, TTS, file explorer, persona picker, conversation search & export, PWA support, dashboard panel, and more. **v1.9.1** — available on npm, one-line install:
+Full-featured standalone AI chat client. Real-time streaming, smart titles, TTS, file explorer, persona picker, conversation search & export, PWA support, dashboard panel, and more. **v2.1.0** — available on npm, one-line install:
 
 ```bash
 curl -fsSL https://opencami.xyz/install.sh | bash

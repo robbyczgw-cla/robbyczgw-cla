@@ -4,8 +4,6 @@
 
 I build tools that make AI assistants actually useful — not just chatbots, but agents that ship code, monitor topics, and integrate into real workflows.
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=robbyczgw-cla&theme=dark&hide_border=true)
-
 ## 🦞 OpenClaw Contributor
 
 **Top 50 contributor** to [OpenClaw](https://github.com/openclaw/openclaw) (~330k ⭐) — the open-source AI assistant platform.

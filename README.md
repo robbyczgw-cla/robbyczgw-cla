@@ -24,10 +24,11 @@ curl -fsSL https://opencami.xyz/install.sh | bash
 
 ### [ClawHub Skills](https://www.clawhub.ai/robbyczgw-cla) — Published Skills
 
-**50k+ total downloads across 11 published OpenClaw skills.**
+**50k+ total downloads across 12 published OpenClaw skills.**
 
 | Skill | What it does |
 |-------|-------------|
+| [skillminer](https://www.clawhub.ai/robbyczgw-cla/skillminer) | Autonomous skill proposal system — scans memory nightly, detects patterns, drafts skills for human review |
 | [web-search-plus](https://www.clawhub.ai/robbyczgw-cla/web-search-plus) | Multi-provider search with auto-routing |
 | [elevenlabs-voices](https://www.clawhub.ai/robbyczgw-cla/elevenlabs-voices) | 18 voice personas for TTS |
 | [personas](https://www.clawhub.ai/robbyczgw-cla/personas) | 20 switchable AI personalities |

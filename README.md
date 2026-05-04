@@ -46,8 +46,6 @@ Three pillars across the agent stack — interfaces, tools, autonomy.
   curl -fsSL https://opencami.xyz/install.sh | bash
   ```
 
-- **[CamiApp](https://github.com/robbyczgw-cla/camiapp)** — Expo + React Native mobile client for OpenClaw. Your AI assistant in your pocket.
-
 ---
 
 ## What I'm good at

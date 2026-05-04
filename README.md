@@ -63,7 +63,6 @@ Three pillars across the agent stack — interfaces, tools, autonomy.
 - **[OpenClaw](https://github.com/openclaw/openclaw) contributor** — 20+ merged PRs covering Telegram, Discord, session management, formatting, bug fixes. `experienced-contributor` · `Clawborator` role.
 - **50k+ downloads** across 12 published OpenClaw skills — indexed at [openclawskills.xyz](https://openclawskills.xyz).
 - **Hermes Agent ecosystem** — featured in [awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent).
-- GitHub achievements: Starstruck ×2 · Pull Shark ×3 · Pair Extraordinaire ×3.
 
 More: [OpenClaw skills](https://openclawskills.xyz) · [Hermes plugins](https://github.com/robbyczgw-cla?tab=repositories&q=hermes-)
 

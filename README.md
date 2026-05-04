@@ -1,81 +1,90 @@
-# Hey, I'm Robby 👋
+# Robby
 
-**Agentic engineer** from Graz, Austria 🇦🇹
+**Agentic developer** building practical AI systems around [OpenClaw](https://github.com/openclaw/openclaw), [Hermes](https://github.com/NousResearch/hermes-agent), and real-world automation.
 
-I build tools that make AI assistants actually useful — not just chatbots, but agents that ship code, monitor topics, and integrate into real workflows.
+I focus on agent tooling, memory systems, search/retrieval, messaging integrations, and workflows where AI agents don't just chat — they monitor, reason, remember, and ship.
 
-## 🦞 OpenClaw Contributor
-
-**Top 50 contributor** to [OpenClaw](https://github.com/openclaw/openclaw) (~330k ⭐) — the open-source AI assistant platform.
-
-- 🔀 **20 PRs merged** — Telegram, Discord, session management, bug fixes
-- 🏷️ `experienced-contributor` · `Clawborator` role
-- 📦 Featured in multiple release notes
-
-## 🦎 What I Build
-
-### [OpenCami](https://github.com/robbyczgw-cla/opencami) — Web Client for OpenClaw
-
-Full-featured standalone AI chat client. Real-time streaming, smart titles, TTS, file explorer, persona picker, conversation search & export, PWA support, dashboard panel, and more. **v2.1.0** — available on npm, one-line install:
-
-```bash
-curl -fsSL https://opencami.xyz/install.sh | bash
-```
-
-### [ClawHub Skills](https://www.clawhub.ai/robbyczgw-cla) — Published Skills
-
-**50k+ total downloads across 12 published OpenClaw skills.**
-
-| Skill | What it does |
-|-------|-------------|
-| [skillminer](https://www.clawhub.ai/robbyczgw-cla/skillminer) | Autonomous skill proposal system — scans memory nightly, detects patterns, drafts skills for human review |
-| [web-search-plus](https://www.clawhub.ai/robbyczgw-cla/web-search-plus) | Multi-provider search with auto-routing |
-| [elevenlabs-voices](https://www.clawhub.ai/robbyczgw-cla/elevenlabs-voices) | 18 voice personas for TTS |
-| [personas](https://www.clawhub.ai/robbyczgw-cla/personas) | 20 switchable AI personalities |
-| [roundtable](https://www.clawhub.ai/robbyczgw-cla/roundtable) | Multi-agent debate council (Scholar, Engineer, Muse) |
-| [sports-ticker](https://www.clawhub.ai/robbyczgw-cla/sports-ticker) | Live sports alerts via ESPN API |
-| [topic-monitor](https://www.clawhub.ai/robbyczgw-cla/topic-monitor) | Automated topic monitoring ⭐ Featured on DigitalOcean |
-| [lucid-dreamer](https://www.clawhub.ai/robbyczgw-cla/lucid-dreamer) | Nightly AI memory reasoning — auto-cleans memory while you sleep 🧠 |
-| [agent-chronicle](https://www.clawhub.ai/robbyczgw-cla/agent-chronicle) | AI diary & journaling system |
-| [smart-followups](https://www.clawhub.ai/robbyczgw-cla/smart-followups) | Contextual follow-up suggestions |
-| [youtube-apify-transcript](https://www.clawhub.ai/robbyczgw-cla/youtube-apify-transcript) | YouTube transcripts via Apify |
-| [x-apify](https://www.clawhub.ai/robbyczgw-cla/x-apify) | X/Twitter data via Apify (search, profiles, caching) |
-
-### Plugins (GitHub)
-
-- [web-search-plus-plugin](https://github.com/robbyczgw-cla/web-search-plus-plugin) — Native OpenClaw tool plugin wrapper for Web Search Plus
-- [openclaw-plugin-stoat](https://github.com/robbyczgw-cla/openclaw-plugin-stoat) — Stoat (Revolt) channel plugin for OpenClaw
-
-### 🔮 Hermes Agent Ecosystem
-
-Plugins and skills for [Hermes Agent](https://github.com/NousResearch/hermes-agent) by Nous Research — featured in [awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) ⭐
-
-| Project | What it does |
-|---------|-------------|
-| [hermes-web-search-plus](https://github.com/robbyczgw-cla/hermes-web-search-plus) | Multi-provider web search (Serper, Tavily, Exa, Querit, Perplexity) with auto-routing |
-| [hermes-topic-monitor](https://github.com/robbyczgw-cla/hermes-topic-monitor) | Scheduled topic monitoring with AI importance scoring — alerts via cron |
-| [hermes-agent-chronicle](https://github.com/robbyczgw-cla/hermes-agent-chronicle) | AI-perspective diary — captures quotes, curiosities, decisions & relationship evolution |
-
-### MCP Servers
-
-- [web-search-plus-mcp](https://github.com/robbyczgw-cla/web-search-plus-mcp) — Multi-provider web search MCP server. Available on [PyPI](https://pypi.org/project/web-search-plus-mcp/). `uvx web-search-plus-mcp`
-
-### [CamiApp](https://github.com/robbyczgw-cla/camiapp) — Native Mobile Client
-
-Expo + React Native client for OpenClaw. Your AI assistant in your pocket.
-
-### macOS
-
-- [SimpleMacClipboardManager](https://github.com/robbyczgw-cla/SimpleMacClipboardManager) — A free, lightweight clipboard manager for macOS. Built with Electron + React + TypeScript.
-
-## 🛠️ Tech
-
-`TypeScript` `React` `React Native` `Node.js` `Vite` `Expo` `Python`
-
-## 🤖 How I Work
-
-I build with AI — specifically with [Cami 🦎](https://github.com/robbyczgw-cla/opencami), my OpenClaw agent. Every PR, every skill, every project is a human + AI collaboration. I design, review, and ship. The AI helps me move fast.
+📍 Graz, Austria 🇦🇹
 
 ---
 
-<sub>🦎 Clawverse · Graz, Austria</sub>
+## Focus
+
+Agent tooling · memory systems · search & retrieval · messaging integrations · workflow automation · MCP servers · multi-platform plugins
+
+---
+
+## Featured Work
+
+Three pillars across the agent stack — interfaces, tools, autonomy.
+
+### 🔍 Agent Tools & Retrieval
+
+**[web-search-plus](https://websearchplus.xyz)** — Multi-provider search engine for AI agents. One engine, three deployments:
+
+| Platform | Repo | Stars |
+|----------|------|------:|
+| Hermes | [hermes-web-search-plus](https://github.com/robbyczgw-cla/hermes-web-search-plus) | **136** ⭐ |
+| OpenClaw | [web-search-plus-plugin](https://github.com/robbyczgw-cla/web-search-plus-plugin) | 27 ⭐ |
+| MCP server | [`uvx web-search-plus-mcp`](https://pypi.org/project/web-search-plus-mcp/) | — |
+
+10 providers · intelligent auto-routing · extraction · opt-in research mode · 47 tests · multi-LLM fallback chains.
+
+### 🧠 Agent Memory & Autonomy
+
+- **[lucid-dreamer](https://www.clawhub.ai/robbyczgw-cla/lucid-dreamer)** — Nightly memory reasoning. Auto-cleans agent memory while you sleep.
+- **[skillminer](https://www.clawhub.ai/robbyczgw-cla/skillminer)** — Autonomous skill proposal. Scans memory, detects patterns, drafts new skills for human review.
+- **[topic-monitor](https://www.clawhub.ai/robbyczgw-cla/topic-monitor)** — Scheduled topic monitoring with AI importance scoring. *Featured on DigitalOcean.*
+- **[agent-chronicle](https://www.clawhub.ai/robbyczgw-cla/agent-chronicle)** — AI-perspective diary. Captures quotes, curiosities, decisions, relationship evolution.
+- **[roundtable](https://www.clawhub.ai/robbyczgw-cla/roundtable)** — Multi-agent debate council (Scholar, Engineer, Muse).
+
+### 💬 Agent Interfaces
+
+- **[OpenCami](https://github.com/robbyczgw-cla/opencami)** — Web client for OpenClaw. Real-time streaming, smart titles, TTS, file explorer, persona picker, conversation search & export, PWA support, dashboard panel.
+
+  ```bash
+  curl -fsSL https://opencami.xyz/install.sh | bash
+  ```
+
+- **[CamiApp](https://github.com/robbyczgw-cla/camiapp)** — Expo + React Native mobile client for OpenClaw. Your AI assistant in your pocket.
+
+---
+
+## What I'm good at
+
+- **Agent tool design** — turning APIs, workflows, and services into reliable agent tools
+- **Memory and context systems** — durable facts, review loops, cleanup, retrieval hygiene
+- **Search and research infrastructure** — multi-provider routing, extraction, scoring, monitoring
+- **Messaging integrations** — Telegram, Discord, mobile-first agent workflows
+- **Shipping small systems fast** — web clients, plugins, skills, dashboards, automation glue
+
+---
+
+## Credibility
+
+- **[OpenClaw](https://github.com/openclaw/openclaw) contributor** — 20+ merged PRs covering Telegram, Discord, session management, formatting, bug fixes. `experienced-contributor` · `Clawborator` role.
+- **50k+ downloads** across 12 published [ClawHub skills](https://www.clawhub.ai/robbyczgw-cla).
+- **Hermes Agent ecosystem** — featured in [awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent).
+- GitHub achievements: Starstruck ×2 · Pull Shark ×3 · Pair Extraordinaire ×3.
+
+More: [ClawHub profile](https://www.clawhub.ai/robbyczgw-cla) · [Hermes plugins](https://github.com/robbyczgw-cla?tab=repositories&q=hermes-)
+
+---
+
+## How I build
+
+I use AI agents as collaborators, not autopilot.
+
+My workflow: design the system, let agents accelerate implementation and research, review every commit, test the behavior, and ship the parts that hold up. The interesting work is not prompting — it's building reliable loops around agents so they can be useful in production workflows.
+
+I work across three platforms — OpenClaw, [Nanoclaw](https://github.com/qwibitai/nanoclaw), Hermes — each suited to a different workflow. Human decisions, agent-assisted execution, tight feedback loop.
+
+---
+
+## Stack
+
+Python (engines, MCP servers) · TypeScript (plugins, web) · React + React Native (clients, mobile) · Node.js · Vite · Expo · SQLite · async-everywhere · multi-LLM orchestration with fallback chains.
+
+---
+
+<sub>🦎 Graz, Austria · [websearchplus.xyz](https://websearchplus.xyz) · [opencami.xyz](https://opencami.xyz)</sub>

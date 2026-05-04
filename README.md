@@ -87,4 +87,4 @@ Python (engines, MCP servers) · TypeScript (plugins, web) · React + React Nati
 
 ---
 
-<sub>🦎 Graz, Austria · [websearchplus.xyz](https://websearchplus.xyz) · [opencami.xyz](https://opencami.xyz)</sub>
+<sub>🦎 Graz, Austria · [websearchplus.xyz](https://websearchplus.xyz) · [openclawskills.xyz](https://openclawskills.xyz)</sub>

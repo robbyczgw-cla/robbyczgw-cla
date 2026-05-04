@@ -32,11 +32,11 @@ Three pillars across the agent stack — interfaces, tools, autonomy.
 
 ### 🧠 Agent Memory & Autonomy
 
-- **[lucid-dreamer](https://www.clawhub.ai/robbyczgw-cla/lucid-dreamer)** — Nightly memory reasoning. Auto-cleans agent memory while you sleep.
-- **[skillminer](https://www.clawhub.ai/robbyczgw-cla/skillminer)** — Autonomous skill proposal. Scans memory, detects patterns, drafts new skills for human review.
-- **[topic-monitor](https://www.clawhub.ai/robbyczgw-cla/topic-monitor)** — Scheduled topic monitoring with AI importance scoring. *Featured on DigitalOcean.*
-- **[agent-chronicle](https://www.clawhub.ai/robbyczgw-cla/agent-chronicle)** — AI-perspective diary. Captures quotes, curiosities, decisions, relationship evolution.
-- **[roundtable](https://www.clawhub.ai/robbyczgw-cla/roundtable)** — Multi-agent debate council (Scholar, Engineer, Muse).
+- **[lucid-dreamer](https://clawhub.ai/robbyczgw-cla/lucid-dreamer)** — Nightly memory reasoning. Auto-cleans agent memory while you sleep.
+- **[skillminer](https://clawhub.ai/robbyczgw-cla/skillminer)** — Autonomous skill proposal. Scans memory, detects patterns, drafts new skills for human review.
+- **[topic-monitor](https://clawhub.ai/robbyczgw-cla/topic-monitor)** — Scheduled topic monitoring with AI importance scoring. *Featured on DigitalOcean.*
+- **[agent-chronicle](https://clawhub.ai/robbyczgw-cla/agent-chronicle)** — AI-perspective diary. Captures quotes, curiosities, decisions, relationship evolution.
+- **[roundtable](https://clawhub.ai/robbyczgw-cla/roundtable)** — Multi-agent debate council (Scholar, Engineer, Muse).
 
 ### 💬 Agent Interfaces
 
@@ -61,11 +61,11 @@ Three pillars across the agent stack — interfaces, tools, autonomy.
 ## Credibility
 
 - **[OpenClaw](https://github.com/openclaw/openclaw) contributor** — 20+ merged PRs covering Telegram, Discord, session management, formatting, bug fixes. `experienced-contributor` · `Clawborator` role.
-- **50k+ downloads** across 12 published [ClawHub skills](https://www.clawhub.ai/robbyczgw-cla).
+- **50k+ downloads** across 12 published OpenClaw skills — indexed at [openclawskills.xyz](https://openclawskills.xyz).
 - **Hermes Agent ecosystem** — featured in [awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent).
 - GitHub achievements: Starstruck ×2 · Pull Shark ×3 · Pair Extraordinaire ×3.
 
-More: [ClawHub profile](https://www.clawhub.ai/robbyczgw-cla) · [Hermes plugins](https://github.com/robbyczgw-cla?tab=repositories&q=hermes-)
+More: [OpenClaw skills](https://openclawskills.xyz) · [Hermes plugins](https://github.com/robbyczgw-cla?tab=repositories&q=hermes-)
 
 ---
 

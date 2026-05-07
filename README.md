@@ -1,10 +1,8 @@
 # Robby
 
-**Agentic developer** building practical AI systems around [OpenClaw](https://github.com/openclaw/openclaw), [Hermes](https://github.com/NousResearch/hermes-agent), and real-world automation.
+**Agentic engineer** building practical AI systems around [OpenClaw](https://github.com/openclaw/openclaw), [Hermes](https://github.com/NousResearch/hermes-agent), and real-world automation.
 
-I focus on agent tooling, memory systems, search/retrieval, messaging integrations, and workflows where AI agents don't just chat — they monitor, reason, remember, and ship.
-
-📍 Graz, Austria 🇦🇹
+I work on agent tooling, memory systems, search/retrieval, messaging integrations, and workflows where AI agents don't just chat — they monitor, reason, remember, and ship.
 
 ---
 
@@ -72,7 +70,7 @@ More: [OpenClaw skills](https://openclawskills.xyz) · [Hermes plugins](https://
 
 I use AI agents as collaborators, not autopilot.
 
-My workflow: design the system, let agents accelerate implementation and research, review every commit, test the behavior, and ship the parts that hold up. The interesting work is not prompting — it's building reliable loops around agents so they can be useful in production workflows.
+My workflow: design the system, let agents accelerate implementation and research, review every commit, test the behavior, and ship the parts that hold up. The interesting work is not prompting — it's engineering reliable loops around agents so they can be useful in production workflows.
 
 I work across three platforms — OpenClaw, [Nanoclaw](https://github.com/qwibitai/nanoclaw), Hermes — each suited to a different workflow. Human decisions, agent-assisted execution, tight feedback loop.
 
@@ -84,4 +82,4 @@ Python (engines, MCP servers) · TypeScript (plugins, web) · React + React Nati
 
 ---
 
-<sub>🦎 Graz, Austria · [websearchplus.xyz](https://websearchplus.xyz) · [openclawskills.xyz](https://openclawskills.xyz)</sub>
+<sub>[websearchplus.xyz](https://websearchplus.xyz) · [openclawskills.xyz](https://openclawskills.xyz) · Graz, Austria</sub>

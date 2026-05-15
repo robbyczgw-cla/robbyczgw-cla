@@ -22,8 +22,8 @@ Three pillars across the agent stack — interfaces, tools, autonomy.
 
 | Platform | Repo | Stars |
 |----------|------|------:|
-| Hermes | [hermes-web-search-plus](https://github.com/robbyczgw-cla/hermes-web-search-plus) | **136** ⭐ |
-| OpenClaw | [web-search-plus-plugin](https://github.com/robbyczgw-cla/web-search-plus-plugin) | 27 ⭐ |
+| Hermes | [hermes-web-search-plus](https://github.com/robbyczgw-cla/hermes-web-search-plus) | **177** ⭐ |
+| OpenClaw | [web-search-plus-plugin](https://github.com/robbyczgw-cla/web-search-plus-plugin) | 40 ⭐ |
 | MCP server | [`uvx web-search-plus-mcp`](https://pypi.org/project/web-search-plus-mcp/) | — |
 
 10 providers · intelligent auto-routing · extraction · opt-in research mode · 47 tests · multi-LLM fallback chains.
@@ -83,3 +83,4 @@ Python (engines, MCP servers) · TypeScript (plugins, web) · React + React Nati
 ---
 
 <sub>[websearchplus.xyz](https://websearchplus.xyz) · [openclawskills.xyz](https://openclawskills.xyz) · Graz, Austria</sub>
+

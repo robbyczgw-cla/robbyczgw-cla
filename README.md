@@ -22,7 +22,7 @@ Three pillars across the agent stack — interfaces, tools, autonomy.
 
 | Platform | Repo | Stars |
 |----------|------|------:|
-| Hermes | [hermes-web-search-plus](https://github.com/robbyczgw-cla/hermes-web-search-plus) | **177** ⭐ |
+| Hermes | [hermes-web-search-plus](https://github.com/robbyczgw-cla/hermes-web-search-plus) | **200** ⭐ |
 | OpenClaw | [web-search-plus-plugin](https://github.com/robbyczgw-cla/web-search-plus-plugin) | 40 ⭐ |
 | MCP server | [`uvx web-search-plus-mcp`](https://pypi.org/project/web-search-plus-mcp/) | — |
 

@@ -22,11 +22,11 @@ Three pillars across the agent stack — interfaces, tools, autonomy.
 
 | Platform | Repo | Stars |
 |----------|------|------:|
-| Hermes | [hermes-web-search-plus](https://github.com/robbyczgw-cla/hermes-web-search-plus) | **200** ⭐ |
-| OpenClaw | [web-search-plus-plugin](https://github.com/robbyczgw-cla/web-search-plus-plugin) | 40 ⭐ |
+| Hermes | [hermes-web-search-plus](https://github.com/robbyczgw-cla/hermes-web-search-plus) | **267** ⭐ |
+| OpenClaw | [web-search-plus-plugin](https://github.com/robbyczgw-cla/web-search-plus-plugin) | 45 ⭐ |
 | MCP server | [`uvx web-search-plus-mcp`](https://pypi.org/project/web-search-plus-mcp/) | — |
 
-10 providers · intelligent auto-routing · extraction · opt-in research mode · 47 tests · multi-LLM fallback chains.
+13 providers · 6 extraction providers · intelligent auto-routing · opt-in research mode · multi-LLM fallback chains.
 
 ### 🧠 Agent Memory & Autonomy
 
@@ -58,8 +58,8 @@ Three pillars across the agent stack — interfaces, tools, autonomy.
 
 ## Credibility
 
-- **[OpenClaw](https://github.com/openclaw/openclaw) contributor** — 20+ merged PRs covering Telegram, Discord, session management, formatting, bug fixes. `experienced-contributor` · `Clawborator` role.
-- **50k+ downloads** across 12 published OpenClaw skills — indexed at [openclawskills.xyz](https://openclawskills.xyz).
+- **[OpenClaw](https://github.com/openclaw/openclaw) contributor** — 19 merged PRs covering Telegram, Discord, session management, formatting, bug fixes. `experienced-contributor` · `Clawborator` role.
+- **72k+ downloads** across 12 published OpenClaw skills — indexed at [openclawskills.xyz](https://openclawskills.xyz).
 - **Hermes Agent ecosystem** — featured in [awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent).
 
 More: [OpenClaw skills](https://openclawskills.xyz) · [Hermes plugins](https://github.com/robbyczgw-cla?tab=repositories&q=hermes-)

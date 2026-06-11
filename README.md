@@ -22,7 +22,7 @@ One engine, three deployments: [hermes-web-search-plus](https://github.com/robby
 
 - **[lucid-dreamer](https://clawhub.ai/robbyczgw-cla/lucid-dreamer)** — nightly memory reasoning; auto-cleans agent memory while you sleep
 - **[skillminer](https://clawhub.ai/robbyczgw-cla/skillminer)** — scans agent memory, detects patterns, drafts new skills for human review
-- **[topic-monitor](https://clawhub.ai/robbyczgw-cla/topic-monitor)** — scheduled topic monitoring with AI importance scoring <!-- TODO: DigitalOcean-Link einfügen ("— featured on [DigitalOcean](URL)") oder weglassen -->
+- **[topic-monitor](https://clawhub.ai/robbyczgw-cla/topic-monitor)** — scheduled topic monitoring with AI importance scoring — listed in [DigitalOcean's OpenClaw Skills guide](https://www.digitalocean.com/resources/articles/what-are-openclaw-skills) (as *proactive-research*)
 - **[agent-chronicle](https://clawhub.ai/robbyczgw-cla/agent-chronicle)** — AI-perspective diary: quotes, curiosities, decisions, relationship evolution
 - **[roundtable](https://clawhub.ai/robbyczgw-cla/roundtable)** — multi-agent debate council (Scholar, Engineer, Muse)
 

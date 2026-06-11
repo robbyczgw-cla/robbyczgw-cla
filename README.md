@@ -44,7 +44,7 @@ One engine, three deployments: [hermes-web-search-plus](https://github.com/robby
 
 - **[OpenClaw](https://github.com/openclaw/openclaw) contributor** — 19 merged PRs: Telegram, Discord, session management, formatting, bug fixes
 - **72k+ downloads** across 12 published OpenClaw skills — indexed at [openclawskills.xyz](https://openclawskills.xyz)
-- Listed in [awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent)
+- Listed in [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) (50k+ ⭐ — agent-chronicle, elevenlabs-voices) and [awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) (hermes-web-search-plus)
 
 ## How I build
 

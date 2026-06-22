@@ -16,7 +16,7 @@ Three pillars across the agent stack — tools, autonomy, interfaces.
 
 **[web-search-plus](https://websearchplus.xyz)** — multi-provider search engine for AI agents. 13 search providers, 6 extraction providers, intelligent auto-routing, opt-in research mode, multi-LLM fallback chains.
 
-One engine, three deployments: [hermes-web-search-plus](https://github.com/robbyczgw-cla/hermes-web-search-plus) (267 ⭐), [web-search-plus-plugin](https://github.com/robbyczgw-cla/web-search-plus-plugin) for OpenClaw, and a standalone MCP server ([`web-search-plus-mcp`](https://pypi.org/project/web-search-plus-mcp/) on PyPI).
+One engine, three deployments: [hermes-web-search-plus](https://github.com/robbyczgw-cla/hermes-web-search-plus) (306 ⭐), [web-search-plus-plugin](https://github.com/robbyczgw-cla/web-search-plus-plugin) for OpenClaw, and a standalone MCP server ([`web-search-plus-mcp`](https://pypi.org/project/web-search-plus-mcp/) on PyPI).
 
 ### 🧠 Agent memory & autonomy
 

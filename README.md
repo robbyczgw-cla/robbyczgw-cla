@@ -14,7 +14,7 @@
 
 **[web-search-plus](https://websearchplus.xyz)** — multi-provider search engine for AI agents. 13+ search providers, 6+ extraction providers, intelligent auto-routing, opt-in research mode, multi-LLM fallback chains.
 
-One engine, three deployments: [hermes-web-search-plus](https://github.com/robbyczgw-cla/hermes-web-search-plus) (331★), [web-search-plus-plugin](https://github.com/robbyczgw-cla/web-search-plus-plugin) for OpenClaw, and a standalone MCP server ([`web-search-plus-mcp`](https://pypi.org/project/web-search-plus-mcp/) on PyPI). *(Provider counts differ per deployment/release — see each repo's README for its current matrix.)*
+One engine, three deployments: [hermes-web-search-plus](https://github.com/robbyczgw-cla/hermes-web-search-plus) (331★), [web-search-plus-plugin](https://github.com/robbyczgw-cla/web-search-plus-plugin) for OpenClaw, and a standalone MCP server ([`web-search-plus-mcp`](https://pypi.org/project/web-search-plus-mcp/) on PyPI).
 
 ### 🧠 Agent memory & autonomy
 

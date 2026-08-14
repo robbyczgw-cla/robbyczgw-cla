@@ -4,11 +4,19 @@
 
 **19 merged PRs** to OpenClaw core · **74k+** ClawHub registry downloads across 12 skills · flagship [web-search-plus](https://websearchplus.xyz) at **331★**
 
+Latest: **[OpenAgentFleet](https://github.com/robbyczgw-cla/openagentfleet)** — a local-first macOS runtime for AI agents with isolated computers and explicit approvals.
+
 📫 Open to interesting agent-infrastructure work — collaboration, contract, or full-time: **robbyczgw@gmail.com**
 
 ---
 
 ## Featured work
+
+### 🖥️ Agent runtime
+
+**[OpenAgentFleet](https://github.com/robbyczgw-cla/openagentfleet)** — local-first macOS app for running AI agents with explicit control. Grok Build, Codex App Server, and OpenCode in one workspace; browser and desktop tasks run on an isolated Linux computer you can watch, stop, or take over. Controller-brokered approvals, local-only data, mobile control over Tailscale.
+
+Go controller · Tauri + React shell · Apache-2.0 · signed & notarized alpha for Apple Silicon → [openagentfleet.xyz](https://openagentfleet.xyz)
 
 ### 🔍 Agent tools & retrieval
 
@@ -38,8 +46,8 @@ I design the system, let agents accelerate implementation and research, review e
 
 ## Stack
 
-Python (engines, MCP servers) · TypeScript (plugins, web) · React + React Native · Node.js · Vite · Expo · SQLite · async-everywhere · multi-LLM orchestration with fallback chains
+Go (local agent runtime) · Python (engines, MCP servers) · TypeScript (plugins, web) · React + React Native · Tauri · Node.js · Vite · Expo · SQLite · Docker/Colima sandboxing · async-everywhere · multi-LLM orchestration with fallback chains
 
 ---
 
-<sub>📫 robbyczgw@gmail.com · [websearchplus.xyz](https://websearchplus.xyz) · [openclawskills.xyz](https://openclawskills.xyz) · Graz, Austria (CET)</sub>
+<sub>📫 robbyczgw@gmail.com · [openagentfleet.xyz](https://openagentfleet.xyz) · [websearchplus.xyz](https://websearchplus.xyz) · [openclawskills.xyz](https://openclawskills.xyz) · Graz, Austria (CET)</sub>

@@ -6,7 +6,7 @@
 
 Latest: **[OpenAgentFleet](https://github.com/robbyczgw-cla/openagentfleet)** — a local-first macOS runtime for AI agents with isolated computers and explicit approvals.
 
-📫 Open to interesting agent-infrastructure work : **robby@robbyczesany.com**
+🌐 **[robbyczesany.com](https://robbyczesany.com)** · 📫 Open to interesting agent-infrastructure work : **robby@robbyczesany.com**
 
 ---
 

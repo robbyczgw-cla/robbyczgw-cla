@@ -41,7 +41,7 @@ I design the system, let agents accelerate implementation and research, review e
 ## Track record
 
 - [OpenClaw](https://github.com/openclaw/openclaw) contributor. 19 merged PRs: Telegram, Discord, session management, formatting, bug fixes
-- 74k+ ClawHub registry downloads across 12 published skills, indexed at [openclawskills.xyz](https://openclawskills.xyz)
+- 74k+ ClawHub registry downloads across 12 published skills
 - Skills listed in [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) and [awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent)
 
 ## Stack
@@ -50,4 +50,4 @@ Go (local agent runtime) · Python (engines, MCP servers) · TypeScript (plugins
 
 ---
 
-<sub>🌐 [robbyczesany.com](https://robbyczesany.com) · 📫 robby@robbyczesany.com · [openagentfleet.xyz](https://openagentfleet.xyz) · [websearchplus.xyz](https://websearchplus.xyz) · [openclawskills.xyz](https://openclawskills.xyz) · Graz, Austria (CET)</sub>
+<sub>🌐 [robbyczesany.com](https://robbyczesany.com) · 📫 robby@robbyczesany.com · [openagentfleet.xyz](https://openagentfleet.xyz) · [websearchplus.xyz](https://websearchplus.xyz) · Graz, Austria (CET)</sub>

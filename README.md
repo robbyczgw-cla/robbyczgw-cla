@@ -2,7 +2,7 @@
 
 **Agentic engineer** building the infrastructure layer for AI agents: search and retrieval, memory systems, MCP tooling, messaging integrations. I turn APIs and workflows into reliable agent tools. The engineering is in the loop around the agent, and the same patterns port across [OpenClaw](https://github.com/openclaw/openclaw), [Hermes](https://github.com/NousResearch/hermes-agent), [Nanoclaw](https://github.com/qwibitai/nanoclaw), and standalone MCP/PyPI packages.
 
-19 merged PRs to OpenClaw core · 74k+ ClawHub registry downloads across 12 skills · flagship [web-search-plus](https://websearchplus.xyz) at 382★
+19 merged PRs to OpenClaw core · 74k+ ClawHub registry downloads across 12 skills · flagship [web-search-plus](https://websearchplus.xyz) at 410★, listed in the official [Hermes plugin catalog](https://hermes-agent.nousresearch.com/docs/plugins)
 
 Latest: [OpenAgentFleet](https://github.com/robbyczgw-cla/openagentfleet), a local-first macOS runtime for AI agents with isolated computers and explicit approvals.
 
@@ -22,7 +22,7 @@ Go controller · Tauri + React shell · Apache-2.0 · signed and notarized alpha
 
 **[web-search-plus](https://websearchplus.xyz)** is a multi-provider search engine for AI agents. 13+ search providers, 6+ extraction providers, auto-routing, opt-in research mode, multi-LLM fallback chains.
 
-One engine, three deployments: [hermes-web-search-plus](https://github.com/robbyczgw-cla/hermes-web-search-plus) (382★), [web-search-plus-plugin](https://github.com/robbyczgw-cla/web-search-plus-plugin) for OpenClaw, and a standalone MCP server ([`web-search-plus-mcp`](https://pypi.org/project/web-search-plus-mcp/) on PyPI).
+One engine, three deployments: [hermes-web-search-plus](https://github.com/robbyczgw-cla/hermes-web-search-plus) (410★, in the official [Hermes plugin catalog](https://hermes-agent.nousresearch.com/docs/plugins)), [web-search-plus-plugin](https://github.com/robbyczgw-cla/web-search-plus-plugin) for OpenClaw, and a standalone MCP server ([`web-search-plus-mcp`](https://pypi.org/project/web-search-plus-mcp/) on PyPI).
 
 ### Agent memory & autonomy
 
@@ -43,6 +43,7 @@ I design the system, let agents accelerate implementation and research, review e
 - [OpenClaw](https://github.com/openclaw/openclaw) contributor. 19 merged PRs: Telegram, Discord, session management, formatting, bug fixes
 - 74k+ ClawHub registry downloads across 12 published skills
 - Skills listed in [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) and [awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent)
+- [web-search-plus](https://github.com/robbyczgw-cla/hermes-web-search-plus) in the official [Hermes plugin catalog](https://hermes-agent.nousresearch.com/docs/plugins) (410★)
 
 ## Stack
 

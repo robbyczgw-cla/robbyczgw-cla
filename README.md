@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://robbyczesany.com"><img alt="robbyczesany.com" src="https://img.shields.io/badge/robbyczesany.com-090d0c?style=flat-square&logo=googlechrome&logoColor=b9f26a"></a>
-  <a href="https://websearchplus.xyz"><img alt="websearchplus.xyz" src="https://img.shields.io/badge/websearchplus.xyz-070d0c?style=flat-square&logo=searxng&logoColor=4de3a4"></a>
-  <a href="https://openagentfleet.xyz"><img alt="openagentfleet.xyz" src="https://img.shields.io/badge/openagentfleet.xyz-090d0c?style=flat-square&logo=apple&logoColor=e4ede7"></a>
-  <a href="mailto:robby@robbyczesany.com"><img alt="robby@robbyczesany.com" src="https://img.shields.io/badge/robby@robbyczesany.com-090d0c?style=flat-square&logo=maildotru&logoColor=ffb86b"></a>
+  <a href="https://robbyczesany.com"><img alt="robbyczesany.com" src="https://img.shields.io/badge/robbyczesany.com-090d0c?style=flat-square"></a>
+  <a href="https://websearchplus.xyz"><img alt="websearchplus.xyz" src="https://img.shields.io/badge/websearchplus.xyz-070d0c?style=flat-square"></a>
+  <a href="https://openagentfleet.xyz"><img alt="openagentfleet.xyz" src="https://img.shields.io/badge/openagentfleet.xyz-090d0c?style=flat-square"></a>
+  <a href="mailto:robby@robbyczesany.com"><img alt="robby@robbyczesany.com" src="https://img.shields.io/badge/robby@robbyczesany.com-090d0c?style=flat-square"></a>
 </p>
 
 | **417★** | **19** | **88k+** | **12** |

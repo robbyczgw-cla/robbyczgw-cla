@@ -1,54 +1,69 @@
-# Robby Czesany
+<p align="center">
+  <a href="https://robbyczesany.com"><img src="assets/banner.svg" alt="Robby Czesany · Agentic engineer. I build agent infrastructure that shows its work: the source, the receipt, the diff." width="100%"></a>
+</p>
 
-**Agentic engineer** building the infrastructure layer for AI agents: search and retrieval, memory systems, MCP tooling, messaging integrations. I turn APIs and workflows into reliable agent tools. The engineering is in the loop around the agent, and the same patterns port across [OpenClaw](https://github.com/openclaw/openclaw), [Hermes](https://github.com/NousResearch/hermes-agent), [Nanoclaw](https://github.com/qwibitai/nanoclaw), and standalone MCP/PyPI packages.
+<p align="center">
+  <a href="https://robbyczesany.com"><img alt="robbyczesany.com" src="https://img.shields.io/badge/robbyczesany.com-090d0c?style=flat-square&logo=googlechrome&logoColor=b9f26a"></a>
+  <a href="https://websearchplus.xyz"><img alt="websearchplus.xyz" src="https://img.shields.io/badge/websearchplus.xyz-070d0c?style=flat-square&logo=searxng&logoColor=4de3a4"></a>
+  <a href="https://openagentfleet.xyz"><img alt="openagentfleet.xyz" src="https://img.shields.io/badge/openagentfleet.xyz-090d0c?style=flat-square&logo=apple&logoColor=e4ede7"></a>
+  <a href="mailto:robby@robbyczesany.com"><img alt="robby@robbyczesany.com" src="https://img.shields.io/badge/robby@robbyczesany.com-090d0c?style=flat-square&logo=maildotru&logoColor=ffb86b"></a>
+</p>
 
-19 merged PRs to OpenClaw core · 74k+ ClawHub registry downloads across 12 skills · flagship [web-search-plus](https://websearchplus.xyz) at 410★, listed in the official [Hermes plugin catalog](https://hermes-agent.nousresearch.com/docs/plugins)
+| **417★** | **19** | **88k+** | **12** |
+| :-- | :-- | :-- | :-- |
+| web-search-plus for Hermes | merged PRs in OpenClaw core | ClawHub skill downloads | published skills |
 
-Latest: [OpenAgentFleet](https://github.com/robbyczgw-cla/openagentfleet), a local-first macOS runtime for AI agents with isolated computers and explicit approvals.
+I build search, memory and runtime tools for AI agents, and each one leaves a record: which source it used, which provider failed, which commit broke the build. The same code runs in [OpenClaw](https://github.com/openclaw/openclaw), [Hermes](https://github.com/NousResearch/hermes-agent), [NanoClaw](https://github.com/nanocoai/nanoclaw), [Grok Build](https://github.com/xai-org/plugin-marketplace) and any MCP client.
 
-🌐 **[robbyczesany.com](https://robbyczesany.com)** · 📫 Open to agent-infrastructure work: **robby@robbyczesany.com**
+## Work
 
----
+### 🔎 [Web Search Plus](https://websearchplus.xyz) · flagship
 
-## Featured work
+Search for agents that returns the original links and the cleaned page, never a generated answer. It picks a provider per query, falls back when one fails, and attaches a routing receipt to every result. 15 search and 9 extract providers; one key is enough.
 
-### Agent runtime
+```bash
+hermes plugins install web-search-plus --enable          # Hermes, official plugin catalog
+uvx --from web-search-plus-mcp==4.3.0 web-search-plus-mcp # any MCP client
+grok plugin install robbyczgw-cla/web-search-plus-mcp     # Grok Build
+```
 
-**[OpenAgentFleet](https://github.com/robbyczgw-cla/openagentfleet)** is a local-first macOS app for running AI agents with explicit control. Grok Build, Codex App Server, and OpenCode in one workspace. Browser and desktop tasks run on an isolated Linux computer you can watch, stop, or take over. Approvals go through the controller, data stays local, and you can steer it from your phone over Tailscale.
+[hermes-web-search-plus](https://github.com/robbyczgw-cla/hermes-web-search-plus) · [web-search-plus-mcp](https://github.com/robbyczgw-cla/web-search-plus-mcp) ([PyPI](https://pypi.org/project/web-search-plus-mcp/), 1.1k downloads last month) · [OpenClaw plugin](https://github.com/robbyczgw-cla/web-search-plus-plugin) · [NanoClaw](https://github.com/robbyczgw-cla/nanoclaw-web-search-plus)
 
-Go controller · Tauri + React shell · Apache-2.0 · signed and notarized alpha for Apple Silicon → [openagentfleet.xyz](https://openagentfleet.xyz)
+### 🖥️ [OpenAgentFleet](https://github.com/robbyczgw-cla/openagentfleet) · runtime
 
-### Agent tools & retrieval
+A macOS app for agents that run on a separate Linux machine. You watch every step on that machine, approve the sensitive ones, and take the keyboard when a human has to. Grok Build, Codex and OpenCode in one workspace. Go controller, Tauri shell, Apache-2.0, signed alpha for Apple Silicon. → [openagentfleet.xyz](https://openagentfleet.xyz)
 
-**[web-search-plus](https://websearchplus.xyz)** is a multi-provider search engine for AI agents. 13+ search providers, 6+ extraction providers, auto-routing, opt-in research mode, multi-LLM fallback chains.
+### ✂️ The reduction toolkit
 
-One engine, three deployments: [hermes-web-search-plus](https://github.com/robbyczgw-cla/hermes-web-search-plus) (410★, in the official [Hermes plugin catalog](https://hermes-agent.nousresearch.com/docs/plugins)), [web-search-plus-plugin](https://github.com/robbyczgw-cla/web-search-plus-plugin) for OpenClaw, and a standalone MCP server ([`web-search-plus-mcp`](https://pypi.org/project/web-search-plus-mcp/) on PyPI).
+Three CLIs that shrink a failure until it fits in a message.
 
-### Agent memory & autonomy
+- **[crashmin](https://github.com/robbyczgw-cla/crashmin)** turns a grotesque curl into the shortest request that still fails
+- **[repromin](https://github.com/robbyczgw-cla/repromin)** cuts a Playwright spec to the fewest actions that still fail
+- **[commit-delta](https://github.com/robbyczgw-cla/commit-delta)** finds the smallest set of changes in a dirty tree that breaks the build
 
-- **[lucid-dreamer](https://clawhub.ai/robbyczgw-cla/lucid-dreamer)** — nightly memory reasoning; cleans agent memory while you sleep
-- **[skillminer](https://clawhub.ai/robbyczgw-cla/skillminer)** — scans agent memory, detects patterns, drafts new skills for human review
-- **[topic-monitor](https://clawhub.ai/robbyczgw-cla/topic-monitor)** — scheduled topic monitoring with AI importance scoring, included in [DigitalOcean's OpenClaw Skills guide](https://www.digitalocean.com/resources/articles/what-are-openclaw-skills) as *proactive-research*
+### 🌙 Memory and autonomy
 
-*Also built: [agent-chronicle](https://clawhub.ai/robbyczgw-cla/agent-chronicle) (AI-perspective diary), [roundtable](https://clawhub.ai/robbyczgw-cla/roundtable) (multi-agent debate council), and [OpenCami](https://github.com/robbyczgw-cla/opencami) (a web client for OpenClaw).*
+Skills that watch, remember and propose. Nothing lands until you approve it.
 
----
+| Skill | What it does |
+| :-- | :-- |
+| [lucid-dreamer](https://clawhub.ai/robbyczgw-cla/lucid-dreamer) | Reviews agent memory every night, finds patterns, proposes changes |
+| [skillminer](https://clawhub.ai/robbyczgw-cla/skillminer) | Finds work that keeps repeating and drafts a skill for it; never activates itself |
+| [topic-monitor](https://clawhub.ai/robbyczgw-cla/topic-monitor) | Watches topics on a schedule and scores each item; in [DigitalOcean's OpenClaw skills guide](https://www.digitalocean.com/resources/articles/what-are-openclaw-skills) |
+| [roundtable](https://clawhub.ai/robbyczgw-cla/roundtable) | Runs three agents in parallel and makes them cross-examine each other |
+
+Also: [agent-chronicle](https://clawhub.ai/robbyczgw-cla/agent-chronicle), [pip-the-mug](https://github.com/robbyczgw-cla/pip-the-mug) (a WebMCP playground where your browser agent is HR), [OpenCami](https://github.com/robbyczgw-cla/opencami) (web client for OpenClaw).
+
+## Upstream
+
+- **OpenClaw:** 19 merged PRs in core: Telegram, Discord, sessions, formatting, OpenRouter thinking
+- **Nous Research:** web-search-plus in the [Hermes plugin catalog](https://hermes-agent.nousresearch.com/docs/plugins); co-author of the [prompt-cache fix](https://github.com/NousResearch/hermes-plugin-claude-subscription-directsdk/commit/d032bed) in the Claude subscription plugin
+- **Lists:** [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills), [awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent)
 
 ## How I build
 
-I design the system, let agents accelerate implementation and research, review every commit by hand, test the behavior, and ship the parts that hold up. Human decisions, agent-assisted execution, tight feedback loop.
+`design` the system → `agent` writes the code and does the research → `review` every commit by hand → `test` behavior, fallbacks, receipts → `ship` what survived.
 
-## Track record
+**Stack:** Go · Python · TypeScript · React / React Native · Tauri · Node · Vite · Expo · SQLite · Docker / Colima · MCP
 
-- [OpenClaw](https://github.com/openclaw/openclaw) contributor. 19 merged PRs: Telegram, Discord, session management, formatting, bug fixes
-- 74k+ ClawHub registry downloads across 12 published skills
-- Skills listed in [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) and [awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent)
-- [web-search-plus](https://github.com/robbyczgw-cla/hermes-web-search-plus) in the official [Hermes plugin catalog](https://hermes-agent.nousresearch.com/docs/plugins) (410★)
-
-## Stack
-
-Go (local agent runtime) · Python (engines, MCP servers) · TypeScript (plugins, web) · React + React Native · Tauri · Node.js · Vite · Expo · SQLite · Docker/Colima sandboxing · multi-LLM orchestration with fallback chains
-
----
-
-<sub>🌐 [robbyczesany.com](https://robbyczesany.com) · 📫 robby@robbyczesany.com · [openagentfleet.xyz](https://openagentfleet.xyz) · [websearchplus.xyz](https://websearchplus.xyz) · Graz, Austria (CET)</sub>
+<sub>Graz, Austria (CET) · open to agent-infrastructure work: robby@robbyczesany.com</sub>

@@ -62,7 +62,7 @@ Also: [agent-chronicle](https://clawhub.ai/robbyczgw-cla/agent-chronicle), [pip-
 
 ## How I build
 
-`design` the system → `agent` writes the code and does the research → `review` every commit by hand → `test` behavior, fallbacks, receipts → `ship` what survived.
+`design` the system → `agent` writes the code and does the research → `review` the diff before it merges → `test` behavior, fallbacks, receipts → `ship` what survived.
 
 **Stack:** Go · Python · TypeScript · React / React Native · Tauri · Node · Vite · Expo · SQLite · Docker / Colima · MCP
 

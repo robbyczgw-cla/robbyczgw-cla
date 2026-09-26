@@ -5,11 +5,12 @@
 <p align="center">
   <a href="https://robbyczesany.com"><img alt="robbyczesany.com" src="https://img.shields.io/badge/robbyczesany.com-090d0c?style=flat-square"></a>
   <a href="https://websearchplus.xyz"><img alt="websearchplus.xyz" src="https://img.shields.io/badge/websearchplus.xyz-070d0c?style=flat-square"></a>
+  <a href="https://activityplus.xyz"><img alt="activityplus.xyz" src="https://img.shields.io/badge/activityplus.xyz-070d0c?style=flat-square"></a>
   <a href="https://openagentfleet.xyz"><img alt="openagentfleet.xyz" src="https://img.shields.io/badge/openagentfleet.xyz-090d0c?style=flat-square"></a>
   <a href="mailto:robby@robbyczesany.com"><img alt="robby@robbyczesany.com" src="https://img.shields.io/badge/robby@robbyczesany.com-090d0c?style=flat-square"></a>
 </p>
 
-| **417★** | **19** | **88k+** | **12** |
+| **416★** | **19** | **88k+** | **12** |
 | :-- | :-- | :-- | :-- |
 | web-search-plus for Hermes | merged PRs in OpenClaw core | ClawHub skill downloads | published skills |
 
@@ -23,11 +24,17 @@ Search for agents that returns the original links and the cleaned page, never a 
 
 ```bash
 hermes plugins install web-search-plus --enable          # Hermes, official plugin catalog
-uvx --from web-search-plus-mcp==4.3.0 web-search-plus-mcp # any MCP client
+uvx --from web-search-plus-mcp==4.3.1 web-search-plus-mcp # any MCP client
 grok plugin install robbyczgw-cla/web-search-plus-mcp     # Grok Build
 ```
 
-[hermes-web-search-plus](https://github.com/robbyczgw-cla/hermes-web-search-plus) · [web-search-plus-mcp](https://github.com/robbyczgw-cla/web-search-plus-mcp) ([PyPI](https://pypi.org/project/web-search-plus-mcp/), 1.1k downloads last month) · [OpenClaw plugin](https://github.com/robbyczgw-cla/web-search-plus-plugin) · [NanoClaw](https://github.com/robbyczgw-cla/nanoclaw-web-search-plus)
+[hermes-web-search-plus](https://github.com/robbyczgw-cla/hermes-web-search-plus) · [web-search-plus-mcp](https://github.com/robbyczgw-cla/web-search-plus-mcp) ([PyPI](https://pypi.org/project/web-search-plus-mcp/), 1.2k downloads last month) · [OpenClaw plugin](https://github.com/robbyczgw-cla/web-search-plus-plugin) · [NanoClaw](https://github.com/robbyczgw-cla/nanoclaw-web-search-plus)
+
+### 📊 [Activity+](https://activityplus.xyz) · macOS
+
+A system monitor that names the app behind the load. It folds about 900 processes into the 80 or so apps you recognize, keeps 30 days of history, answers "why is my Mac slow?" with a finding and a fix button, and lists dev servers per project with their ports. Agents get the same data through a read-only MCP server (`aplus mcp`). Swift, MIT, notarized, Apple silicon, macOS 15+. No account, no analytics.
+
+→ [activityplus.xyz](https://activityplus.xyz) · [activity-plus](https://github.com/robbyczgw-cla/activity-plus) · [1-minute film](https://activityplus.xyz/assets/video/activityplus-trailer.mp4)
 
 ### 🖥️ [OpenAgentFleet](https://github.com/robbyczgw-cla/openagentfleet) · runtime
 

@@ -6,7 +6,6 @@
   <a href="https://robbyczesany.com"><img alt="robbyczesany.com" src="https://img.shields.io/badge/robbyczesany.com-090d0c?style=flat-square"></a>
   <a href="https://websearchplus.xyz"><img alt="websearchplus.xyz" src="https://img.shields.io/badge/websearchplus.xyz-070d0c?style=flat-square"></a>
   <a href="https://activityplus.xyz"><img alt="activityplus.xyz" src="https://img.shields.io/badge/activityplus.xyz-070d0c?style=flat-square"></a>
-  <a href="https://openagentfleet.xyz"><img alt="openagentfleet.xyz" src="https://img.shields.io/badge/openagentfleet.xyz-090d0c?style=flat-square"></a>
   <a href="mailto:robby@robbyczesany.com"><img alt="robby@robbyczesany.com" src="https://img.shields.io/badge/robby@robbyczesany.com-090d0c?style=flat-square"></a>
 </p>
 
@@ -30,23 +29,11 @@ grok plugin install robbyczgw-cla/web-search-plus-mcp     # Grok Build
 
 [hermes-web-search-plus](https://github.com/robbyczgw-cla/hermes-web-search-plus) · [web-search-plus-mcp](https://github.com/robbyczgw-cla/web-search-plus-mcp) ([PyPI](https://pypi.org/project/web-search-plus-mcp/), 1.2k downloads last month) · [OpenClaw plugin](https://github.com/robbyczgw-cla/web-search-plus-plugin) · [NanoClaw](https://github.com/robbyczgw-cla/nanoclaw-web-search-plus)
 
-### 📊 [Activity+](https://activityplus.xyz) · macOS
+### 📊 [Activity+](https://activityplus.xyz) · flagship
 
 A system monitor that names the app behind the load. It folds about 900 processes into the 80 or so apps you recognize, keeps 30 days of history, answers "why is my Mac slow?" with a finding and a fix button, and lists dev servers per project with their ports. Agents get the same data through a read-only MCP server (`aplus mcp`). Swift, MIT, notarized, Apple silicon, macOS 15+. No account, no analytics.
 
 → [activityplus.xyz](https://activityplus.xyz) · [activity-plus](https://github.com/robbyczgw-cla/activity-plus) · [1-minute film](https://activityplus.xyz/assets/video/activityplus-trailer.mp4)
-
-### 🖥️ [OpenAgentFleet](https://github.com/robbyczgw-cla/openagentfleet) · runtime
-
-A macOS app for agents that run on a separate Linux machine. You watch every step on that machine, approve the sensitive ones, and take the keyboard when a human has to. Grok Build, Codex and OpenCode in one workspace. Go controller, Tauri shell, Apache-2.0, signed alpha for Apple Silicon. → [openagentfleet.xyz](https://openagentfleet.xyz)
-
-### ✂️ The reduction toolkit
-
-Three CLIs that shrink a failure until it fits in a message.
-
-- **[crashmin](https://github.com/robbyczgw-cla/crashmin)** turns a grotesque curl into the shortest request that still fails
-- **[repromin](https://github.com/robbyczgw-cla/repromin)** cuts a Playwright spec to the fewest actions that still fail
-- **[commit-delta](https://github.com/robbyczgw-cla/commit-delta)** finds the smallest set of changes in a dirty tree that breaks the build
 
 ### 🌙 Memory and autonomy
 
@@ -59,7 +46,7 @@ Skills that watch, remember and propose. Nothing lands until you approve it.
 | [topic-monitor](https://clawhub.ai/robbyczgw-cla/topic-monitor) | Watches topics on a schedule and scores each item; in [DigitalOcean's OpenClaw skills guide](https://www.digitalocean.com/resources/articles/what-are-openclaw-skills) |
 | [roundtable](https://clawhub.ai/robbyczgw-cla/roundtable) | Runs three agents in parallel and makes them cross-examine each other |
 
-Also: [agent-chronicle](https://clawhub.ai/robbyczgw-cla/agent-chronicle), [pip-the-mug](https://github.com/robbyczgw-cla/pip-the-mug) (a WebMCP playground where your browser agent is HR), [OpenCami](https://github.com/robbyczgw-cla/opencami) (web client for OpenClaw).
+Also: [agent-chronicle](https://clawhub.ai/robbyczgw-cla/agent-chronicle), [OpenCami](https://github.com/robbyczgw-cla/opencami) (web client for OpenClaw), [OpenAgentFleet](https://github.com/robbyczgw-cla/openagentfleet) (macOS app for agents on a separate Linux machine; paused).
 
 ## Upstream
 

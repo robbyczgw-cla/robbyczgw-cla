@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://robbyczesany.com"><img src="assets/banner.svg" alt="Robby Czesany · Agentic engineer. I build agent infrastructure that shows its work: the source, the receipt, the diff." width="100%"></a>
+  <a href="https://robbyczesany.com"><img src="assets/banner.svg" alt="Robby Czesany · Agentic engineer. I build tools that tell you what is actually going on: on your Mac, your phone, your servers and inside your AI agents." width="100%"></a>
 </p>
 
 <p align="center">
@@ -10,11 +10,11 @@
   <a href="mailto:robby@robbyczesany.com"><img alt="robby@robbyczesany.com" src="https://img.shields.io/badge/robby@robbyczesany.com-090d0c?style=flat-square"></a>
 </p>
 
-| **430★** | **19** | **88k+** | **12** |
+| **436★** | **91k+** | **12** | **19** |
 | :-- | :-- | :-- | :-- |
-| web-search-plus for Hermes | merged PRs in OpenClaw core | ClawHub skill downloads | published skills |
+| web-search-plus for Hermes | ClawHub skill downloads | published agent skills | merged PRs in OpenClaw core |
 
-I build search, memory and runtime tools for AI agents, and each one leaves a record: which source it used, which provider failed, which commit broke the build. The same code runs in [OpenClaw](https://github.com/openclaw/openclaw), [Hermes](https://github.com/NousResearch/hermes-agent), [NanoClaw](https://github.com/nanocoai/nanoclaw), [Grok Build](https://github.com/xai-org/plugin-marketplace) and any MCP client.
+I build tools that tell you what is actually going on: on your Mac, your phone, your servers and inside your AI agents. Web Search Plus gives agents the original links instead of a made-up answer and runs in [Hermes](https://github.com/NousResearch/hermes-agent), [Grok Build](https://github.com/xai-org/plugin-marketplace), [NanoClaw](https://github.com/nanocoai/nanoclaw), [OpenClaw](https://github.com/openclaw/openclaw) and any MCP client. Activity+ names the app behind every spike, on the Mac and on Android.
 
 ## Work
 
@@ -32,9 +32,16 @@ grok plugin install robbyczgw-cla/web-search-plus-mcp     # Grok Build
 
 ### 📊 [Activity+](https://activityplus.xyz) · flagship
 
-A system monitor that names the app behind the load. It folds about 900 processes into the 80 or so apps you recognize, keeps 30 days of history, answers "why is my Mac slow?" with a finding and a fix button, and lists dev servers per project with their ports. Agents get the same data through a read-only MCP server (`aplus mcp`). Swift, MIT, notarized, Apple silicon, macOS 15+. No account, no analytics.
+A system monitor that names the app behind the load. It folds about 900 processes into the 80 or so apps you recognize, keeps 30 days of history, answers "why is my Mac slow?" with a finding and a fix button, and lists dev servers per project with their ports. Version 0.4 adds a storage map: where the space went, what grew since the last scan, and a cleanup list with a reason for every item. Agents get the same data through a read-only MCP server (`aplus mcp`). Swift, MIT, notarized, Apple silicon, macOS 15+. No account, no analytics.
 
-→ [activityplus.xyz](https://activityplus.xyz) · [activity-plus](https://github.com/robbyczgw-cla/activity-plus) · [1-minute film](https://activityplus.xyz/assets/video/activityplus-trailer.mp4)
+**Android** (since 9 October): which app drains the battery or keeps the phone awake at night, a night check every morning, a battery passport, charging in watts, where storage went, widgets and 30 days of history. No internet permission. Kotlin, MIT, Android 10+.
+
+| | Current | Recent releases |
+| :-- | :-- | :-- |
+| Mac | [0.4.1](https://github.com/robbyczgw-cla/activity-plus/releases/tag/v0.4.1) (23 Oct) | 0.4.0 storage map and cleanup · 0.3.0 why it was slow, freezes with call stacks, SSD wear · 0.2.3 safety release after a code review |
+| Android | [0.6.0](https://github.com/robbyczgw-cla/activity-plus-android/releases/tag/v0.6.0) (21 Oct) | 0.5.0 night check, sensor log · 0.4.0 who woke the phone, battery passport · 0.3.0 storage page |
+
+→ [activityplus.xyz](https://activityplus.xyz) · [activity-plus](https://github.com/robbyczgw-cla/activity-plus) · [activity-plus-android](https://github.com/robbyczgw-cla/activity-plus-android) · [1-minute film](https://activityplus.xyz/assets/video/activityplus-trailer.mp4)
 
 ### 📱 [HUI+ · Hermes UI+](https://hermesui.xyz) · new
 
@@ -61,13 +68,17 @@ Also: [agent-chronicle](https://clawhub.ai/robbyczgw-cla/agent-chronicle), [Open
 
 ## Upstream
 
-- **OpenClaw:** 19 merged PRs in core: Telegram, Discord, sessions, formatting, OpenRouter thinking
 - **Nous Research:** web-search-plus in the [Hermes plugin catalog](https://hermes-agent.nousresearch.com/docs/plugins); co-author of the [prompt-cache fix](https://github.com/NousResearch/hermes-plugin-claude-subscription-directsdk/commit/d032bed) in the Claude subscription plugin
+- **OpenClaw:** 19 merged PRs in core: Telegram, Discord, sessions, formatting, OpenRouter thinking
 - **Lists:** [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills), [awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent)
 
-## How I build
+## Now
 
-`design` the system → `agent` writes the code and does the research → `review` the diff before it merges → `test` behavior, fallbacks, receipts → `ship` what survived.
+- **Mac** · Activity+ 0.4.1: where the disk space went, a cleanup list with reasons
+- **Android** · Activity+ 0.6.0: the night check and a battery passport
+- **Handheld** · Pocket UI: a frontend for retro handhelds, in progress
+- **Agents** · Web Search Plus: original sources for agents, 436★
+- **Hermes** · Hermes UI+ 0.2.1: tick, choose and approve inside the answer
 
 **Stack:** Go · Python · TypeScript · React / React Native · Tauri · Node · Vite · Expo · SQLite · Docker / Colima · MCP
 

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-labelledby="t d">
   <title id="t">Robby Czesany · Agentic engineer</title>
-  <desc id="d">I build agent infrastructure that shows its work: the source, the receipt, the diff.</desc>
+  <desc id="d">I build tools that tell you what is actually going on: on your Mac, your phone, your servers and inside your AI agents.</desc>
   <defs>
     <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#e4ede7" opacity=".08"/></pattern>
     <radialGradient id="glowA" cx="85%" cy="0%" r="60%"><stop offset="0" stop-color="#b9f26a" stop-opacity=".16"/><stop offset="1" stop-color="#b9f26a" stop-opacity="0"/></radialGradient>
@@ -17,9 +17,9 @@
   </g>
   <text x="64" y="74" fill="#ffb86b" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="2.5">01 · AGENTIC ENGINEER · GRAZ, AUSTRIA</text>
   <text x="62" y="146" fill="#e4ede7" font-family="Georgia,'Times New Roman',serif" font-size="66" letter-spacing="-2">Robby Czesany</text>
-  <text x="64" y="200" fill="#a3b2aa" font-family="Georgia,'Times New Roman',serif" font-size="25">I build agent infrastructure that <tspan fill="url(#hl)" font-style="italic">shows its work:</tspan></text>
-  <text x="64" y="232" fill="#a3b2aa" font-family="Georgia,'Times New Roman',serif" font-size="25">the source, the receipt, the diff.</text>
-  <text x="64" y="274" fill="#7f8f87" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="1">design → agent → review → test → ship</text>
+  <text x="64" y="200" fill="#a3b2aa" font-family="Georgia,'Times New Roman',serif" font-size="25">I build tools that tell you <tspan fill="url(#hl)" font-style="italic">what is actually going on:</tspan></text>
+  <text x="64" y="232" fill="#a3b2aa" font-family="Georgia,'Times New Roman',serif" font-size="25">on your Mac, phone and servers, and inside your AI agents.</text>
+  <text x="64" y="274" fill="#7f8f87" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="1">now: activity+ 0.4.1 · android 0.6.0 · web search plus 436★</text>
   <g transform="translate(975 160)" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#b9f26a">
     <g fill="none" stroke="#b9f26a">
       <path d="M-150 0H150M0 -150V150" stroke-opacity=".25"/>
@@ -35,10 +35,10 @@
       <path d="M-14 -10 0 0-14 10M4 10H22" stroke-width="3" filter="url(#glow)"/>
     </g>
     <g fill="#090d0c" stroke="#b9f26a"><circle cx="0" cy="-128" r="4"/><circle cx="122" cy="-40" r="4"/><circle cx="75" cy="104" r="4"/><circle cx="-75" cy="104" r="4"/><circle cx="-122" cy="-40" r="4"/></g>
-    <text x="0" y="-138" text-anchor="middle">01 DESIGN</text>
-    <text x="132" y="-44">02 AGENT</text>
-    <text x="84" y="124">03 REVIEW</text>
-    <text x="-84" y="124" text-anchor="end">04 TEST</text>
-    <text x="-132" y="-44" text-anchor="end">05 SHIP</text>
+    <text x="0" y="-138" text-anchor="middle">01 MAC</text>
+    <text x="132" y="-44">02 ANDROID</text>
+    <text x="84" y="124">03 HANDHELD</text>
+    <text x="-84" y="124" text-anchor="end">04 AGENTS</text>
+    <text x="-132" y="-44" text-anchor="end">05 HERMES</text>
   </g>
 </svg>

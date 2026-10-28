@@ -53,6 +53,12 @@ npx hermes-ui-plus-bridge setup   # on the machine that runs Hermes; prints a pa
 
 → [hermesui.xyz](https://hermesui.xyz) · [hermes-ui-plus](https://github.com/robbyczgw-cla/hermes-ui-plus) · [releases](https://github.com/robbyczgw-cla/hermes-ui-plus/releases)
 
+### 🎮 [Pocket UI](https://github.com/robbyczgw-cla/pocket-ui) · new
+
+A controller-first game frontend for the Retroid Pocket Mini V2 on [ROCKNIX](https://rocknix.org). A shelf of your games that opens in tens of milliseconds, "continue where you left off" first, and the same small pause menu from Game Boy to PlayStation 2, with save slots, run-ahead and per-game settings. It brings its own libretro host, pocket-core, and falls back to RetroArch when a game won't start. Rust, GPLv2, early alpha tested on one device.
+
+→ [pocket-ui](https://github.com/robbyczgw-cla/pocket-ui) · [0.1.0 release](https://github.com/robbyczgw-cla/pocket-ui/releases/tag/v0.1.0) · [status per feature](https://github.com/robbyczgw-cla/pocket-ui/blob/main/docs/STATUS.md)
+
 ### 🌙 Memory and autonomy
 
 Skills that watch, remember and propose. Nothing lands until you approve it.
@@ -76,7 +82,7 @@ Also: [agent-chronicle](https://clawhub.ai/robbyczgw-cla/agent-chronicle), [Open
 
 - **Mac** · Activity+ 0.4.1: where the disk space went, a cleanup list with reasons
 - **Android** · Activity+ 0.6.0: the night check and a battery passport
-- **Handheld** · Pocket UI: a frontend for retro handhelds, in progress
+- **Handheld** · [Pocket UI](https://github.com/robbyczgw-cla/pocket-ui) 0.1.0: a game frontend for the Retroid Pocket Mini V2, just open-sourced
 - **Agents** · Web Search Plus: original sources for agents, 436★
 - **Hermes** · Hermes UI+ 0.2.1: tick, choose and approve inside the answer
 

@@ -19,7 +19,7 @@
   <text x="62" y="146" fill="#e4ede7" font-family="Georgia,'Times New Roman',serif" font-size="66" letter-spacing="-2">Robby Czesany</text>
   <text x="64" y="200" fill="#a3b2aa" font-family="Georgia,'Times New Roman',serif" font-size="25">I build tools that tell you <tspan fill="url(#hl)" font-style="italic">what is actually going on:</tspan></text>
   <text x="64" y="232" fill="#a3b2aa" font-family="Georgia,'Times New Roman',serif" font-size="25">on your Mac, phone and servers, and inside your AI agents.</text>
-  <text x="64" y="274" fill="#7f8f87" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="1">now: activity+ 0.4.1 · android 0.6.0 · web search plus 436★</text>
+  <text x="64" y="274" fill="#7f8f87" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="1">now: activity+ 0.5.0 · android 0.6.3 · pocket ui 0.1.5 · web search plus 439★</text>
   <g transform="translate(975 160)" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#b9f26a">
     <g fill="none" stroke="#b9f26a">
       <path d="M-150 0H150M0 -150V150" stroke-opacity=".25"/>

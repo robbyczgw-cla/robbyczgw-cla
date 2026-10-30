@@ -15,7 +15,7 @@
 | :-- | :-- | :-- | :-- |
 | web-search-plus for Hermes | ClawHub skill downloads | published agent skills | merged PRs in OpenClaw core |
 
-I build tools that tell you what is actually going on: on your Mac, your phone, your servers and inside your AI agents. Web Search Plus gives agents the original links instead of a made-up answer and runs in [Hermes](https://github.com/NousResearch/hermes-agent), [Grok Build](https://github.com/xai-org/plugin-marketplace), [NanoClaw](https://github.com/nanocoai/nanoclaw), [OpenClaw](https://github.com/openclaw/openclaw) and any MCP client. Activity+ names the app behind every spike, on the Mac and on Android.
+I build tools that tell you what is actually going on: on your Mac, your phone, your servers and inside your AI agents. Web Search Plus gives agents the original links instead of a made-up answer and runs in [Hermes](https://github.com/NousResearch/hermes-agent), [Grok Build](https://github.com/xai-org/plugin-marketplace), [NanoClaw](https://github.com/nanocoai/nanoclaw), [OpenClaw](https://github.com/openclaw/openclaw) and any MCP client. Activity+ names the app behind every spike, on the Mac and on Android. Pocket UI turns a ROCKNIX handheld into one shelf of your games that starts in a blink.
 
 ## Work
 

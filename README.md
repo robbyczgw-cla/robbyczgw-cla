@@ -7,10 +7,11 @@
   <a href="https://websearchplus.xyz"><img alt="websearchplus.xyz" src="https://img.shields.io/badge/websearchplus.xyz-070d0c?style=flat-square"></a>
   <a href="https://activityplus.xyz"><img alt="activityplus.xyz" src="https://img.shields.io/badge/activityplus.xyz-070d0c?style=flat-square"></a>
   <a href="https://hermesui.xyz"><img alt="hermesui.xyz" src="https://img.shields.io/badge/hermesui.xyz-070d0c?style=flat-square"></a>
+  <a href="https://pocketui.xyz"><img alt="pocketui.xyz" src="https://img.shields.io/badge/pocketui.xyz-070d0c?style=flat-square"></a>
   <a href="mailto:robby@robbyczesany.com"><img alt="robby@robbyczesany.com" src="https://img.shields.io/badge/robby@robbyczesany.com-090d0c?style=flat-square"></a>
 </p>
 
-| **436★** | **91k+** | **12** | **19** |
+| **439★** | **91k+** | **12** | **19** |
 | :-- | :-- | :-- | :-- |
 | web-search-plus for Hermes | ClawHub skill downloads | published agent skills | merged PRs in OpenClaw core |
 
@@ -24,22 +25,22 @@ Search for agents that returns the original links and the cleaned page, never a 
 
 ```bash
 hermes plugins install web-search-plus --enable          # Hermes, official plugin catalog
-uvx --from web-search-plus-mcp==5.0.1 web-search-plus-mcp # any MCP client
+uvx --from web-search-plus-mcp==5.1.2 web-search-plus-mcp # any MCP client
 grok plugin install robbyczgw-cla/web-search-plus-mcp     # Grok Build
 ```
 
-[hermes-web-search-plus](https://github.com/robbyczgw-cla/hermes-web-search-plus) · [web-search-plus-mcp](https://github.com/robbyczgw-cla/web-search-plus-mcp) ([PyPI](https://pypi.org/project/web-search-plus-mcp/), 1.2k downloads last month) · [OpenClaw plugin](https://github.com/robbyczgw-cla/web-search-plus-plugin) · [NanoClaw](https://github.com/robbyczgw-cla/nanoclaw-web-search-plus)
+[hermes-web-search-plus](https://github.com/robbyczgw-cla/hermes-web-search-plus) · [web-search-plus-mcp](https://github.com/robbyczgw-cla/web-search-plus-mcp) ([PyPI](https://pypi.org/project/web-search-plus-mcp/), 1.1k downloads last month) · [OpenClaw plugin](https://github.com/robbyczgw-cla/web-search-plus-plugin) · [NanoClaw](https://github.com/robbyczgw-cla/nanoclaw-web-search-plus)
 
 ### 📊 [Activity+](https://activityplus.xyz) · flagship
 
-A system monitor that names the app behind the load. It folds about 900 processes into the 80 or so apps you recognize, keeps 30 days of history, answers "why is my Mac slow?" with a finding and a fix button, and lists dev servers per project with their ports. Version 0.4 adds a storage map: where the space went, what grew since the last scan, and a cleanup list with a reason for every item. Agents get the same data through a read-only MCP server (`aplus mcp`). Swift, MIT, notarized, Apple silicon, macOS 15+. No account, no analytics.
+A system monitor that names the app behind the load. It folds about 900 processes into the 80 or so apps you recognize, keeps 30 days of history, answers "why is my Mac slow?" with a finding and a fix button, and lists dev servers per project with their ports. It shows where the disk space went and gives a cleanup list with a reason for every item. Version 0.5 watches your other Macs and Linux servers too, keeps every slow moment with its three biggest causes while you are away, and writes a short check-up once a week. Agents get the same data through a read-only MCP server with 19 tools (`aplus mcp`). Install from the release or with `brew install robbyczgw-cla/tap/activity-plus`. Swift, MIT, notarized, Apple silicon, macOS 15+. No account, no analytics.
 
 **Android** (since 9 October): which app drains the battery or keeps the phone awake at night, a night check every morning, a battery passport, charging in watts, where storage went, widgets and 30 days of history. No internet permission. Kotlin, MIT, Android 10+.
 
 | | Current | Recent releases |
 | :-- | :-- | :-- |
-| Mac | [0.4.1](https://github.com/robbyczgw-cla/activity-plus/releases/tag/v0.4.1) (23 Oct) | 0.4.0 storage map and cleanup · 0.3.0 why it was slow, freezes with call stacks, SSD wear · 0.2.3 safety release after a code review |
-| Android | [0.6.0](https://github.com/robbyczgw-cla/activity-plus-android/releases/tag/v0.6.0) (21 Oct) | 0.5.0 night check, sensor log · 0.4.0 who woke the phone, battery passport · 0.3.0 storage page |
+| Mac | [0.5.0](https://github.com/robbyczgw-cla/activity-plus/releases/tag/v0.5.0) (28 Oct) | 0.4.1 fixes · 0.4.0 storage map and cleanup · 0.3.0 why it was slow, freezes with call stacks, SSD wear |
+| Android | [0.6.3](https://github.com/robbyczgw-cla/activity-plus-android/releases/tag/v0.6.3) (28 Oct) | 0.6.1–0.6.3 fixes from two code reviews, correct battery units on more phones · 0.6.0 today at a glance, tablets and foldables, import · 0.5.0 night check · 0.4.0 battery passport |
 
 → [activityplus.xyz](https://activityplus.xyz) · [activity-plus](https://github.com/robbyczgw-cla/activity-plus) · [activity-plus-android](https://github.com/robbyczgw-cla/activity-plus-android) · [1-minute film](https://activityplus.xyz/assets/video/activityplus-trailer.mp4)
 
@@ -53,11 +54,11 @@ npx hermes-ui-plus-bridge setup   # on the machine that runs Hermes; prints a pa
 
 → [hermesui.xyz](https://hermesui.xyz) · [hermes-ui-plus](https://github.com/robbyczgw-cla/hermes-ui-plus) · [releases](https://github.com/robbyczgw-cla/hermes-ui-plus/releases)
 
-### 🎮 [Pocket UI](https://github.com/robbyczgw-cla/pocket-ui) · new
+### 🎮 [Pocket UI](https://pocketui.xyz) · new
 
-A controller-first game frontend for the Retroid Pocket Mini V2 on [ROCKNIX](https://rocknix.org). A shelf of your games that opens in tens of milliseconds, "continue where you left off" first, and the same small pause menu from Game Boy to PlayStation 2, with save slots, run-ahead and per-game settings. It brings its own libretro host, pocket-core, and falls back to RetroArch when a game won't start. Rust, GPLv2, early alpha tested on one device.
+A controller-first game frontend for the Retroid Pocket Mini V2 on [ROCKNIX](https://rocknix.org), with experimental installs for Anbernic and Odin 2 handhelds. A shelf of your games that opens in tens of milliseconds, "continue where you left off" first, and the same small pause menu from Game Boy to PlayStation 2, with save slots, run-ahead and per-game settings. It brings its own libretro host, pocket-core, and falls back to RetroArch when a game won't start. A web companion on your own tailnet shows the library and what is playing. Rust, GPLv2, public alpha.
 
-→ [pocket-ui](https://github.com/robbyczgw-cla/pocket-ui) · [0.1.0 release](https://github.com/robbyczgw-cla/pocket-ui/releases/tag/v0.1.0) · [status per feature](https://github.com/robbyczgw-cla/pocket-ui/blob/main/docs/STATUS.md)
+→ [pocketui.xyz](https://pocketui.xyz) · [pocket-ui](https://github.com/robbyczgw-cla/pocket-ui) · [0.1.5 release](https://github.com/robbyczgw-cla/pocket-ui/releases/tag/v0.1.5) · [status per feature](https://github.com/robbyczgw-cla/pocket-ui/blob/main/docs/STATUS.md)
 
 ### 🌙 Memory and autonomy
 
@@ -80,11 +81,11 @@ Also: [agent-chronicle](https://clawhub.ai/robbyczgw-cla/agent-chronicle), [Open
 
 ## Now
 
-- **Mac** · Activity+ 0.4.1: where the disk space went, a cleanup list with reasons
-- **Android** · Activity+ 0.6.0: the night check and a battery passport
-- **Handheld** · [Pocket UI](https://github.com/robbyczgw-cla/pocket-ui) 0.1.0: a game frontend for the Retroid Pocket Mini V2, just open-sourced
-- **Agents** · Web Search Plus: original sources for agents, 436★
-- **Hermes** · Hermes UI+ 0.2.1: tick, choose and approve inside the answer
+- **Mac** · Activity+ 0.5.0: your other Macs and servers, and what slowed the Mac down while you were away
+- **Android** · Activity+ 0.6.3: today at a glance, correct battery figures on more phones
+- **Handheld** · [Pocket UI](https://pocketui.xyz) 0.1.5: a game frontend for ROCKNIX handhelds, public alpha
+- **Agents** · Web Search Plus 5.1: original sources for agents, 439★
+- **Hermes** · Hermes UI+ 0.2.2: tick, choose and approve inside the answer, now with Hermes v0.22.3+
 
 **Stack:** Go · Python · TypeScript · React / React Native · Tauri · Node · Vite · Expo · SQLite · Docker / Colima · MCP
 

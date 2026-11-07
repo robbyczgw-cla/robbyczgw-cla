@@ -21,7 +21,7 @@ I build tools that tell you what is actually going on: on your Mac, your phone, 
 
 ### 🎮 [`pocket-ui`](https://pocketui.xyz) · featured
 
-<a href="https://pocketui.xyz"><img src="https://raw.githubusercontent.com/robbyczgw-cla/pocket-ui/main/docs/media/hero.webp" alt="pocket-ui on a handheld: games on one shelf" width="560"></a>
+<a href="https://pocketui.xyz"><img src="https://raw.githubusercontent.com/robbyczgw-cla/pocket-ui/main/docs/media/hero.webp" alt="The pocket-ui shelf: Advance Wars ready to continue, the last games as cases and every console as a spine" width="560"></a>
 
 **A cozy frontend with its own player for retro handhelds.** Every game sits in its real box on one shelf. Press A and you are playing, right where you left off. One pause menu works from Game Boy to GameCube, with saves that come with pictures and "Earlier" to go back a few minutes. Send games from your phone with a QR code, and updates over Wi-Fi keep your games and saves.
 

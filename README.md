@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://robbyczesany.com"><img src="assets/banner.svg" alt="Robby Czesany · Agentic engineer. I build tools that tell you what is actually going on: on your Mac, your phone, your servers and inside your AI agents." width="100%"></a>
+  <a href="https://robbyczesany.com"><img src="assets/banner.svg" alt="Robby Czesany · Agentic engineer. I build pocket-ui, a cozy frontend for retro handhelds, and tools for Hermes Agent." width="100%"></a>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 | :-- | :-- | :-- |
 | web-search-plus for Hermes | ClawHub skill downloads (2026-11-07) | handhelds supported by `pocket-ui` |
 
-I build tools that tell you what is actually going on: on your Mac, your phone, your servers and inside your AI agents. Two projects are my main work right now: `pocket-ui`, a cozy frontend with its own player for retro handhelds, and a family of tools for [Hermes Agent](https://github.com/NousResearch/hermes-agent): Web Search Plus, the HUI+ app and HUI+ Cards. Activity+ names the app behind every spike, on the Mac and on Android.
+I build `pocket-ui`, a cozy frontend with its own player for retro handhelds, and tools for [Hermes Agent](https://github.com/NousResearch/hermes-agent): Web Search Plus, the HUI+ app and HUI+ Cards. Plus Activity+, which tells you what your Mac and phone are really doing.
 
 ## Main projects
 

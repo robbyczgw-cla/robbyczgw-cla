@@ -11,9 +11,9 @@
   <a href="mailto:robby@robbyczesany.com"><img alt="robby@robbyczesany.com" src="https://img.shields.io/badge/robby@robbyczesany.com-090d0c?style=flat-square"></a>
 </p>
 
-| **442★** | **88k+** | **12** | **19** |
+| **442★** | **88k+** | **14** | **20** |
 | :-- | :-- | :-- | :-- |
-| web-search-plus for Hermes | ClawHub skill downloads (2026-11-07) | published agent skills | merged PRs in OpenClaw core |
+| web-search-plus for Hermes | ClawHub skill downloads (2026-11-07) | handhelds supported by `pocket-ui` | `pocket-ui` releases since 2026-10-28 |
 
 I build tools that tell you what is actually going on: on your Mac, your phone, your servers and inside your AI agents. `pocket-ui` is a cozy frontend with its own player for retro handhelds. Activity+ names the app behind every spike, on the Mac and on Android. Web Search Plus gives agents the original links instead of a made-up answer and runs in [Hermes](https://github.com/NousResearch/hermes-agent), [Grok Build](https://github.com/xai-org/plugin-marketplace/pull/499) (submitted), [NanoClaw](https://github.com/nanocoai/nanoclaw), [OpenClaw](https://github.com/openclaw/openclaw) and any MCP client.
 

@@ -11,9 +11,9 @@
   <a href="mailto:robby@robbyczesany.com"><img alt="robby@robbyczesany.com" src="https://img.shields.io/badge/robby@robbyczesany.com-090d0c?style=flat-square"></a>
 </p>
 
-| **442★** | **88k+** | **14** |
+| **442★** | **88k+** | **17** |
 | :-- | :-- | :-- |
-| web-search-plus for Hermes | ClawHub skill downloads (2026-11-07) | handhelds supported by `pocket-ui` |
+| web-search-plus for Hermes | ClawHub skill downloads (2026-11-07) | handhelds supported by `pocket-ui` (2026-11-11) |
 
 I build `pocket-ui`, a cozy frontend with its own player for retro handhelds, and tools for [Hermes Agent](https://github.com/NousResearch/hermes-agent): Web Search Plus, the HUI+ app and HUI+ Cards. Plus Activity+, which tells you what your Mac and phone are really doing.
 
@@ -26,10 +26,10 @@ I build `pocket-ui`, a cozy frontend with its own player for retro handhelds, an
 **A cozy frontend with its own player for retro handhelds.** Free and open source (GPLv2, Rust), no account, no ads, no tracking.
 
 - **Every game in its real box.** One shelf, press A and you are playing, right where you left off. One pause menu from Game Boy to GameCube, with saves that come with pictures.
-- **14 handhelds, with [ROCKNIX](https://rocknix.org).** Retroid Pocket (Mini V2, Mini, 5, 6, Flip 2, Nova), AYN Odin 2 (Mini, Odin 2, Portal), Anbernic (RG35XX, RG40XX, RG34XX, RG28XX, RG-SP).
-- **Easy to live with.** Send games from your phone with a QR code; Wi-Fi updates keep your games and saves. Next: 0.3 with a Retro look, and TrimUI Brick support is coming.
+- **17 handhelds.** With [ROCKNIX](https://rocknix.org): Retroid Pocket (Mini V2, Mini, 5, 6, Flip 2, Nova, Classic as a beta), AYN Odin 2 (Mini, Odin 2, Portal), Anbernic (RG35XX, RG40XX, RG34XX, RG28XX, RG-SP). TrimUI Brick from a card of its own, on the device's own system, no flashing; Smart Pro experimental.
+- **Easy to live with.** Send games from your phone with a QR code; Wi-Fi updates keep your games and saves. New in 0.3: the Retro look with pixel letters, TrimUI Brick, PortMaster games on TrimUI and a [browser demo](https://pocketui.xyz/try). Next: 0.4 finishes the insert ritual, and an Android app is in the works.
 
-→ [pocketui.xyz](https://pocketui.xyz) · [pocket-ui](https://github.com/robbyczgw-cla/pocket-ui) · [0.2.4 release](https://github.com/robbyczgw-cla/pocket-ui/releases/tag/v0.2.4)
+→ [pocketui.xyz](https://pocketui.xyz) · [pocket-ui](https://github.com/robbyczgw-cla/pocket-ui) · [demo](https://pocketui.xyz/try) · [0.3.2 release](https://github.com/robbyczgw-cla/pocket-ui/releases/tag/v0.3.2)
 
 ### 🧩 [Hermes](https://github.com/NousResearch/hermes-agent)
 
@@ -39,12 +39,12 @@ I build `pocket-ui`, a cozy frontend with its own player for retro handhelds, an
 
 - **[Web Search Plus](https://websearchplus.xyz)** 5.1.7, 442★. The original links and the cleaned page, never a generated answer, with a receipt for every source. 15 search and 9 extract providers; also runs in Grok Build (submitted), NanoClaw, OpenClaw and any MCP client.
 - **[HUI+ · Hermes UI+](https://hermesui.xyz)** 0.3.1, alpha. A chat app for your own Hermes on Android, web (PWA), macOS and Linux: tick, choose, compare and approve right inside the answer. Unofficial.
-- **[HUI+ Cards](https://github.com/robbyczgw-cla/hermes-ui-cards)** 0.1.0, new today. Hermes asks with a card, you tap, your answer is the next message. 17 card types, Desktop and Webapp, text fallback elsewhere. Needs Hermes 0.22.6 or newer.
+- **[HUI+ Cards](https://github.com/robbyczgw-cla/hermes-ui-cards)** 0.1.0 (7 Nov). Hermes asks with a card, you tap, your answer is the next message. 17 card types, Desktop and Webapp, text fallback elsewhere. Needs Hermes 0.22.6 or newer.
 
 ```bash
 hermes plugins install web-search-plus --enable                       # Hermes, official plugin catalog
 hermes plugins install robbyczgw-cla/hermes-ui-cards --enable         # answer cards
-uvx --from web-search-plus-mcp==5.1.6 web-search-plus-mcp             # Web Search Plus for any MCP client
+uvx --from web-search-plus-mcp==5.1.8 web-search-plus-mcp             # Web Search Plus for any MCP client
 ```
 
 → [hermes-web-search-plus](https://github.com/robbyczgw-cla/hermes-web-search-plus) · [web-search-plus-mcp](https://github.com/robbyczgw-cla/web-search-plus-mcp) · [OpenClaw plugin](https://github.com/robbyczgw-cla/web-search-plus-plugin) · [NanoClaw](https://github.com/robbyczgw-cla/nanoclaw-web-search-plus) · [hermes-ui-plus](https://github.com/robbyczgw-cla/hermes-ui-plus) · [hermes-ui-cards](https://github.com/robbyczgw-cla/hermes-ui-cards)
@@ -80,11 +80,11 @@ Also: [personas](https://github.com/robbyczgw-cla/clawdbot-personas), [agent-chr
 
 ## Now
 
-- **Mac** · Activity+ 0.5.0
-- **Android** · Activity+ 0.6.4
-- **Handheld** · [`pocket-ui`](https://pocketui.xyz) 0.2.4
+- **Mac** · Activity+ 0.5.0: your other Macs and servers, and what slowed the Mac down while you were away
+- **Android** · Activity+ 0.6.4: today at a glance, also on phones with hundreds of apps
+- **Handheld** · [`pocket-ui`](https://pocketui.xyz) 0.3.2: the Retro look, TrimUI Brick, 17 handhelds
 - **Agents** · Web Search Plus 5.1 (442★)
-- **Hermes** · HUI+ 0.3.1 and HUI+ Cards 0.1.0 (first release today)
+- **Hermes** · HUI+ 0.3.1: bots on one timeline · HUI+ Cards 0.1.0: interactive answer cards
 
 **Stack:** Go · Python · TypeScript · React / React Native · Tauri · Node · Vite · Expo · SQLite · Docker / Colima · MCP
 

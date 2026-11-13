@@ -26,10 +26,10 @@ I build `pocket-ui`, a cozy frontend with its own player for retro handhelds, an
 **A cozy frontend with its own player for retro handhelds.** Free and open source (GPLv2, Rust), no account, no ads, no tracking.
 
 - **Every game in its real box.** One shelf, press A and you are playing, right where you left off. One pause menu from Game Boy to GameCube, with saves that come with pictures.
-- **17 handhelds.** With [ROCKNIX](https://rocknix.org): Retroid Pocket (Mini V2, Mini, 5, 6, Flip 2, Nova, Classic as a beta), AYN Odin 2 (Mini, Odin 2, Portal), Anbernic (RG35XX, RG40XX, RG34XX, RG28XX, RG-SP). TrimUI Brick from a card of its own, on the device's own system, no flashing; Smart Pro experimental.
-- **Easy to live with.** Send games from your phone with a QR code; Wi-Fi updates keep your games and saves. New in 0.3: the Retro look with pixel letters, TrimUI Brick, PortMaster games on TrimUI and a [browser demo](https://pocketui.xyz/try). Next: 0.4 finishes the insert ritual, and an Android app is in the works.
+- **17 handhelds.** With [ROCKNIX](https://rocknix.org): Retroid Pocket (Mini V2, Mini, 5, 6, Flip 2, Nova, Classic as a beta), AYN Odin 2 (Mini, Odin 2, Portal), Anbernic (RG35XX, RG40XX, RG34XX, RG28XX, RG-SP). TrimUI Brick from a card of its own, on the device's own system, no flashing (out of beta since 0.4); Smart Pro experimental.
+- **Easy to live with.** Send games from your phone with a QR code; Wi-Fi updates keep your games and saves. New in 0.4: eject (on quit the TV switches off, the cartridge comes out and the case goes back on the shelf), seven new insertion scenes and smoother animations. Since 0.3: the Retro look with pixel letters, PortMaster games on TrimUI and a [browser demo](https://pocketui.xyz/try). An Android app is in the works.
 
-→ [pocketui.xyz](https://pocketui.xyz) · [pocket-ui](https://github.com/robbyczgw-cla/pocket-ui) · [demo](https://pocketui.xyz/try) · [0.3.2 release](https://github.com/robbyczgw-cla/pocket-ui/releases/tag/v0.3.2)
+→ [pocketui.xyz](https://pocketui.xyz) · [pocket-ui](https://github.com/robbyczgw-cla/pocket-ui) · [demo](https://pocketui.xyz/try) · [0.4.0 release](https://github.com/robbyczgw-cla/pocket-ui/releases/tag/v0.4.0)
 
 ### 🧩 [Hermes](https://github.com/NousResearch/hermes-agent)
 
@@ -82,7 +82,7 @@ Also: [personas](https://github.com/robbyczgw-cla/clawdbot-personas), [agent-chr
 
 - **Mac** · Activity+ 0.5.0: your other Macs and servers, and what slowed the Mac down while you were away
 - **Android** · Activity+ 0.6.4: today at a glance, also on phones with hundreds of apps
-- **Handheld** · [`pocket-ui`](https://pocketui.xyz) 0.3.2: the Retro look, TrimUI Brick, 17 handhelds
+- **Handheld** · [`pocket-ui`](https://pocketui.xyz) 0.4.0: eject, new insertion scenes, TrimUI Brick, 17 handhelds
 - **Agents** · Web Search Plus 5.1 (442★)
 - **Hermes** · HUI+ 0.3.1: bots on one timeline · HUI+ Cards 0.1.0: interactive answer cards
 

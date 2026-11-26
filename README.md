@@ -11,9 +11,9 @@
   <a href="mailto:robby@robbyczesany.com"><img alt="robby@robbyczesany.com" src="https://img.shields.io/badge/robby@robbyczesany.com-090d0c?style=flat-square"></a>
 </p>
 
-| **448★** | **88k+** | **20+** |
+| **448★** | **94k+** | **20+** |
 | :-- | :-- | :-- |
-| web-search-plus for Hermes (2026-11-26) | ClawHub skill downloads (2026-11-07) | handhelds supported by `pocket-ui`, plus Android (2026-11-26) |
+| web-search-plus for Hermes (2026-11-26) | ClawHub skill downloads (2026-11-26) | handhelds supported by `pocket-ui`, plus Android (2026-11-26) |
 
 I build `pocket-ui`, a cozy frontend with its own player for retro handhelds, and tools for [Hermes Agent](https://github.com/NousResearch/hermes-agent): Web Search Plus, the HUI+ app and HUI+ Cards. Plus Activity+, which tells you what your Mac and phone are really doing.
 
